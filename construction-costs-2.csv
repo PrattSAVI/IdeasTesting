@@ -1,21 +1,21 @@
-Country,City,Line,Start year,End year,RR?,Length,Tunnel,Tunnel,Stations,Source,Cost,Currency,Year,PPP rate,Real cost,Cost/km,Source,Reference
-BG,Sofia,Line 1 southern,2013,2015,0,3,100%,3.0,3,Media,44,EUR,2014,3.32,146.08,48.69333333,Media,https://www.novinite.com/articles/168384/Subway+Extension+to+Business+Park+Sofia+Opens
+country,city,Line,Start year,End year,RR?,Length,Tunnel,Tunnel,Stations,Source,Cost,Currency,Year,PPP rate,Real cost,Cost/km,Source,Reference
+BG,Sofia,Line 1 southern,2013,2015,0,3,100%,3,3,Media,44,EUR,2014,3.32,146.08,48.69333333,Media,https://www.novinite.com/articles/168384/Subway+Extension+to+Business+Park+Sofia+Opens
 ES,Madrid,1999-2003 program,1999,2003,0,74.7,77%,57.5,39,Trade,3147,EUR,2001,1.25,3933.75,52.66064257,Trade,https://tunnelbuilder.com/metrosur/edition2pdf/page2.pdf
 TR,Istanbul,Line 9,,2019,0,13.4,100%,13.4,12,Trade,339,EUR,,2.1,711.9,53.12686567,Trade,https://www.metro-report.com/news/news-by-region/europe/single-view/view/istanbul-metro-line-m9-to-receive-ebrd-loan.html?sword_list[]=istanbul&no_cache=1
 BG,Sofia,Line 2 extension,2012,2016,0,1.3,100%,1.3,1,Media,21,EUR,2014,3.32,69.72,53.63076923,Media,https://seenews.com/news/sofia-subway-launches-13-km-section-with-one-station-533330
-SE,Malmo,Citytunneln,2005,2010,1,17,35%,6.0,3,Trade,8450,SEK,2001,0.11,929.5,54.67647059,Trade,http://www.tunnel-online.info/en/artikel/artikel_en_1204638.html
-ES,Madrid,1995-98 program,1995,1998,0,38,100%,38.0,34,Trade,1687,USD,1997,1.25,2108.75,55.49342105,Trade,https://www.metro-report.com/news/metro/single-view/view/model-guides-metro-expansion.html?sword_list[]=lisbon&no_cache=1
-JP,Osaka,Higashi Line,1999,2019,1,20.3,0%,0.0,0,Plan,120000,JPY,2009,0.01,1200,59.11330049,Plan,https://www.westjr.co.jp/global/en/ir/library/fact-sheets/2018/pdf/fact2018.pdf
+SE,Malmo,Citytunneln,2005,2010,1,17,35%,6,3,Trade,8450,SEK,2001,0.11,929.5,54.67647059,Trade,http://www.tunnel-online.info/en/artikel/artikel_en_1204638.html
+ES,Madrid,1995-98 program,1995,1998,0,38,100%,38,34,Trade,1687,USD,1997,1.25,2108.75,55.49342105,Trade,https://www.metro-report.com/news/metro/single-view/view/model-guides-metro-expansion.html?sword_list[]=lisbon&no_cache=1
+JP,Osaka,Higashi Line,1999,2019,1,20.3,0%,0,0,Plan,120000,JPY,2009,0.01,1200,59.11330049,Plan,https://www.westjr.co.jp/global/en/ir/library/fact-sheets/2018/pdf/fact2018.pdf
 ES,Seville,Line 1,2003,2009,0,18.2,64%,11.6,22,Measured,892,EUR,2006,1.25,1115,61.26373626,Media,https://www.diariodesevilla.es/sevilla/construccion-linea-1-Metro-Sevilla_0_1341766366.html
 ES,Bilbao,Line 3,2007,2016,0,5.9,95%,5.6,7,Measured,279,EUR,2011,1.3,362.7,61.47457627,Media,https://www.eitb.eus/es/noticias/sociedad/detalle/1867390/linea-3-metro-bilbao--estara-marcha-2016-pagar-279-millones/
-FR,Lyon,Line A to Vaulx,2005,2007,0,1,100%,1.0,1,Plan,53,EUR,2006,1.25,66.25,66.25,Plan,https://web.archive.org/web/20080312071952/http://www.sytral.fr/176.0.html
+FR,Lyon,Line A to Vaulx,2005,2007,0,1,100%,1,1,Plan,53,EUR,2006,1.25,66.25,66.25,Plan,https://web.archive.org/web/20080312071952/http://www.sytral.fr/176.0.html
 PT,Porto,"Pink line, yellow line",2019,2023,0,6,47%,2.8,7,Media,307,EUR,2021,1.3,399.1,66.51666667,Media,http://www.theportugalnews.com/news/goverrnment-approves-plans-for-517m-lisbon-porto-metro-expansions/47817
 TR,Istanbul,Line 5,2012,2017,0,16.9,100%,16.9,16,Wiki,564,EUR,2015,2.1,1184.4,70.08284024,Trade,https://www.railwaygazette.com/news/single-view/view/istanbul-awards-asian-metro-contract.html
 KR,Seoul,Sinbundang,2005,2011,0,17.3,100%,17.3,6,Wiki,1169000,KRW,2008,0.0011,1285.9,74.32947977,Trade,www.industrykorea.net/BCS_Com/Project/Policy/Rotem/Rotem(08-05)/LinkData/080423-PPP_consortium(M).doc
 KR,Seoul,Gimpo Urban Railway,2014,2019,0,23.7,100%,23.7,9,Wiki,1655000,KRW,2017,0.0011,1820.5,76.81434599,Media,http://www.kyeonggi.com/news/articleView.html?idxno=564944
-FR,Paris,Line 8 to Pointe-du-Lac,2007,2011,0,1.3,0%,0.0,1,Wiki,83,EUR,2005,1.25,103.75,79.80769231,Media,https://www.railpassion.fr/materiel-actualites-rp/011-14751-la-ligne-8-du-metro-arrive-a-creteil-pointe-du-lac/
+FR,Paris,Line 8 to Pointe-du-Lac,2007,2011,0,1.3,0%,0,1,Wiki,83,EUR,2005,1.25,103.75,79.80769231,Media,https://www.railpassion.fr/materiel-actualites-rp/011-14751-la-ligne-8-du-metro-arrive-a-creteil-pointe-du-lac/
 GR,Athens,Line 3 to Piraeus,2012,2021,0,7.6,100%,7.6,6,Plan,467,EUR,2016,1.3,607.1,79.88157895,Plan,https://www.ametro.gr/wp-content/uploads/2018/08/AM_Xrimatooikonomikes_katastaseis_2017.pdf
-ES,Madrid,Line 9 extension,2009,2015,0,3,100%,3.0,2,Plan,191,EUR,2012,1.3,248.3,82.76666667,Plan,https://web.archive.org/web/20150328212257/https://www.metromadrid.es/en/comunicacion/prensa/2015/March/noticia09.html
+ES,Madrid,Line 9 extension,2009,2015,0,3,100%,3,2,Plan,191,EUR,2012,1.3,248.3,82.76666667,Plan,https://web.archive.org/web/20150328212257/https://www.metromadrid.es/en/comunicacion/prensa/2015/March/noticia09.html
 NO,Oslo,Løren Line,2013,2016,0,1.6,100%,1.6,1,Trade,1330,NOK,2014,0.1,133,83.125,Trade,https://www.metro-report.com/news/single-view/view/loerenbanen-opens-in-oslo.html
 TR,Istanbul,"Line 5 extension, Line 7",2017,2020,0,17.9,100%,17.9,15,Trade,2340,TRY,2019,0.64,1497.6,83.66480447,Trade,https://www.railjournal.com/passenger/metros/istanbul-awards-contracts-for-two-metro-lines/
 IN,Hyderabad,Airport express,2020,,0,31,8%,2.5,10,Media,50000,INR,2020,0.055,2750,88.70967742,Media,https://www.thehindu.com/news/cities/Hyderabad/airport-metro-to-have-underground-section-connecting-to-passenger-terminal/article29317205.ece
@@ -25,19 +25,19 @@ ES,Madrid,Chamartin-Atocha tunnel,2003,2008,1,7.5,100%,7.5,3,Wiki,550,EUR,2006,1
 BR,Salvador,Lines 1-2,2000,2016,0,33,4%,1.3,20,Wiki,4800,BRL,2012,0.64,3072,93.09090909,Media,http://patrocinados.estadao.com.br/ccr/salvadors-subway-becomes-a-model-of-success/
 ES,Madrid,Eje Transversal,2020,2028,1,10.5,100%,10.5,4,Measured,760,EUR,2024,1.3,988,94.0952381,Plan,https://www.esmadrid.com/sites/default/files/plan_integral_cercanias_madrid_2018_2025.pdf
 RO,Bucharest,Line 5,2014,2019,0,7.2,100%,7.2,10,Media,1149,RON,2016,0.596,684.804,95.11166667,Media,http://www.hotnews.ro/stiri-esential-16746648-magistrala-5-metrou-tronsonul-drumul-taberei-universitate-primeste-436-milioane-lei-2014.htm
-AT,Vienna,Line 2 extension,2010,2013,0,4.2,0%,0.0,3,Media,320,EUR,2012,1.3,416,99.04761905,Media,https://wien.orf.at/news/stories/2607445/
+AT,Vienna,Line 2 extension,2010,2013,0,4.2,0%,0,3,Media,320,EUR,2012,1.3,416,99.04761905,Media,https://wien.orf.at/news/stories/2607445/
 ES,Barcelona,L3 to Trinitat Nova,2001,2008,0,1.9,100%,1.9,2,Plan,151,EUR,2004,1.25,188.75,99.34210526,Plan,https://pemb.cat/public/docs/794_r6_cat_b2_17_perllongament_linia_3_de_metro_corr.pdf
 ES,Malaga,Lines 1-2,2006,2014,0,11.3,81%,9.2,17,Wiki,870,EUR,2010,1.3,1131,100.0884956,Media,https://www.diariosur.es/20130217/local/malaga/obras-metro-malaga-costaran-201302170041.html
-TH,Bangkok,Blue Line loop (elevated),2011,2020,0,21.5,0%,0.0,15,Wiki,25600,THB,2015,0.087,2227.2,103.5906977,Trade,https://www.railwaygazette.com/bangkok-to-complete-blue-line-loop/35788.article
+TH,Bangkok,Blue Line loop (elevated),2011,2020,0,21.5,0%,0,15,Wiki,25600,THB,2015,0.087,2227.2,103.5906977,Trade,https://www.railwaygazette.com/bangkok-to-complete-blue-line-loop/35788.article
 FR,Paris,Line 13 to Courtilles,2005,2008,0,1.9,100%,1.9,2,Plan,158,EUR,2006,1.25,197.5,103.9473684,Plan,https://web.archive.org/web/20120221232537/http://www.iledefrance.fr/lactualite/transports/metro-rer/ligne-13-deux-nouvelles-stations-a-asnieres-gennevilliers/
 KR,Seoul,Line 7 extension,2014,2020,0,3.9,100%,3.9,2,Wiki,370000,KRW,2017,0.0011,407,104.3589744,Media,http://news.kbs.co.kr/news/view.do?ref=A&ncd=3011941
-JP,Tokyo,Tokyo-Ueno Line,2008,2015,1,3.8,0%,0.0,0,Trade,40000,JPY,2011,0.01,400,105.2631579,Trade,https://www.railwaygazette.com/cross-tokyo-link-inaugurated/40649.article
+JP,Tokyo,Tokyo-Ueno Line,2008,2015,1,3.8,0%,0,0,Trade,40000,JPY,2011,0.01,400,105.2631579,Trade,https://www.railwaygazette.com/cross-tokyo-link-inaugurated/40649.article
 DE,Hamburg,U4 to HafenCity U,2007,2012,0,3.9,100%,3.9,2,Media,326,EUR,2009,1.3,423.8,108.6666667,Media,https://www.nahverkehrhamburg.de/u4-verlaengerung-in-horner-geest-soll-465-millionen-euro-kosten-9328/
-IN,Gurgaon,Phase 1,2009,2013,0,5.5,0%,0.0,6,Wiki,10880,INR,2011,0.055,598.4,108.8,Media,http://archive.indianexpress.com/news/gurgaon-rapid-metro-begins-trial-runs/1011112/0
+IN,Gurgaon,Phase 1,2009,2013,0,5.5,0%,0,6,Wiki,10880,INR,2011,0.055,598.4,108.8,Media,http://archive.indianexpress.com/news/gurgaon-rapid-metro-begins-trial-runs/1011112/0
 ES,Barcelona,L2 to Badalona,2006,2010,0,0.7,100%,0.7,1,Plan,61,EUR,2008,1.25,76.25,108.9285714,Plan,https://pemb.cat/public/docs/50_ps_memoria_2008.pdf
-IN,Mumbai,Line 12,2019,2024,0,20.8,0%,0.0,17,Media,41320,INR,2022,0.055,2272.6,109.2596154,Media,https://timesofindia.indiatimes.com/city/mumbai/mmrda-jurisdiction-to-expand-mumbai-metro-operations-corp-to-be-set-up/articleshow/66740043.cms
+IN,Mumbai,Line 12,2019,2024,0,20.8,0%,0,17,Media,41320,INR,2022,0.055,2272.6,109.2596154,Media,https://timesofindia.indiatimes.com/city/mumbai/mmrda-jurisdiction-to-expand-mumbai-metro-operations-corp-to-be-set-up/articleshow/66740043.cms
 SE,Stockholm,Barkarby,2016,2023,0,3.3,100%,3.3,2,Plan,3300,SEK,2019,0.11,363,110,Plan,http://nyatunnelbanan.sll.se/sites/tunnelbanan/files/Faktablad_Upphandling_%20engelsk.pdf
-KR,Seoul,2020s program,2020,2028,0,71,100%,71.0,53,Media,7230200,KRW,2024,0.0011,7953.22,112.0171831,Media,http://news1.kr/articles/?3552208
+KR,Seoul,2020s program,2020,2028,0,71,100%,71,53,Media,7230200,KRW,2024,0.0011,7953.22,112.0171831,Media,http://news1.kr/articles/?3552208
 IT,Turin,Line 1 south,2012,2019,0,1.7,100%,1.7,2,Measured,148,EUR,2015,1.3,192.4,113.1764706,Media,http://torino.mobilita.org/2017/12/04/metro-dopo-metro-la-linea-1-vedra-il-completamento/
 CH,Luzern,Zentralbahn,2008,2013,1,1.5,90%,1.4,1,Plan,250,CHF,2010,0.68,170,113.3333333,Plan,http://www.doppelspurausbau-hergiswil.ch/wp/timeline/auftrag-fuer-neuen-kostenteiler/
 FI,Helsinki,West Metro,2009,2017,0,13.5,100%,13.5,8,Measured,1186,EUR,2013,1.3,1541.8,114.2074074,Plan,https://www.lansimetro.fi/en/information-on-the-project/costs/
@@ -47,34 +47,34 @@ ES,Barcelona,Terrassa tunnel,2008,2015,0,4.5,100%,4.5,3,Plan,401,EUR,2011,1.3,52
 FR,Toulouse,Line 3,2019,2025,0,28,60%,16.8,20,Media,2500,EUR,2021,1.3,3250,116.0714286,Media,https://www.ladepeche.fr/article/2017/03/07/2530341-prix-3e-ligne-metro-fait-toujours-polemique.html
 IT,Turin,Line 1 west,2018,2022,0,3.4,100%,3.4,4,Media,304,EUR,2020,1.3,395.2,116.2352941,Media,https://www.casaeclima.com/ar_21436__ITALIA-Regioni-metropolitana-torino-Linea-1-metro-Torino-pronto-il-progetto-definitivo-per-la-nuova-tratta.html
 KR,Seoul,Sinbundang phase 2,2011,2018,0,12.8,100%,12.8,7,Media,1354300,KRW,2014,0.0011,1489.73,116.3851563,Media,http://news.donga.com/3/all/20110216/34857594/1
-JP,Osaka,Monorail extension,2018,2029,0,8.9,0%,0.0,4,Plan,105000,JPY,2019,0.01,1050,117.9775281,Plan,http://www.mlit.go.jp/common/001272230.pdf
+JP,Osaka,Monorail extension,2018,2029,0,8.9,0%,0,4,Plan,105000,JPY,2019,0.01,1050,117.9775281,Plan,http://www.mlit.go.jp/common/001272230.pdf
 IT,Milan,Line 5 phase 1,2007,2013,0,6.1,100%,6.1,9,Media,557,EUR,2010,1.3,724.1,118.704918,Trade,http://www.expofairs.com/pianeta-costruzioni/001/pagina_017.pdf
 TR,Istanbul,Line 7 second phase,2017,,0,18.5,100%,18.5,10,Trade,3500,TRY,2017,0.64,2240,121.0810811,Trade,https://www.metro-report.com/news/news-by-region/europe/single-view/view/work-starts-on-istanbul-driverless-metro-extension.html?sword_list[]=istanbul&no_cache=1
 CH,Geneva,CEVA,2013,2019,1,8.8,96%,8.4,4,Measured,1567,CHF,2016,0.68,1065.56,121.0863636,Plan,https://www.ceva.ch/2017/05/11/financement-et-organisation/?b=https://www.ceva.ch/category/projet
 SE,Stockholm,Arenastaden,2016,2023,0,4.1,100%,4.1,2,Plan,4700,SEK,2019,0.11,517,126.097561,Plan,http://nyatunnelbanan.sll.se/sites/tunnelbanan/files/Faktablad_Upphandling_%20engelsk.pdf
 ES,Barcelona,Sabadell tunnel,2006,2017,0,4.4,100%,4.4,4,Plan,430,EUR,2011,1.3,559,127.0454545,Plan,https://govern.cat/govern/docs/2012/10/03/12/36/6b33e55c-7ef4-4200-8517-97c7501d026e.pdf
-IN,Nagpur,Phase 1,2014,2019,0,38.2,0%,0.0,40,Media,88600,INR,2016,0.055,4873,127.565445,Media,https://zeenews.india.com/news/maharashtra/cabinet-nod-to-metro-rail-in-nagpur_956012.html
+IN,Nagpur,Phase 1,2014,2019,0,38.2,0%,0,40,Media,88600,INR,2016,0.055,4873,127.565445,Media,https://zeenews.india.com/news/maharashtra/cabinet-nod-to-metro-rail-in-nagpur_956012.html
 FR,Paris,Line 12 to Aubervilliers,2012,2021,0,1.7,100%,1.7,2,Plan,175,EUR,2006,1.25,218.75,128.6764706,Plan,https://www.prolongement-metro12.fr/faq-metro-m12/
 RU,Moscow,Line 1 extension,2016,2019,0,11.6,14%,1.6,3,Wiki,36000,RUB,2018,0.042,1512,130.3448276,Plan,https://stroi.mos.ru/news/stantsii-sokol-nichieskoi-linii-mietro-v-novoi-moskvie-poluchili-nazvaniia
-TH,Bangkok,Sukhumvit Line to Khu Khot,2015,2020,0,19,0%,0.0,16,Trade,28786,THB,2017,0.087,2504.382,131.8095789,Media,https://www.ryt9.com/s/iq03/2130477
+TH,Bangkok,Sukhumvit Line to Khu Khot,2015,2020,0,19,0%,0,16,Trade,28786,THB,2017,0.087,2504.382,131.8095789,Media,https://www.ryt9.com/s/iq03/2130477
 CA,Ottawa,Confederation,2013,2018,0,12.5,20%,2.5,13,Trade,2100,CAD,2015,0.8,1680,134.4,Trade,https://www.aecom.com/projects/ottawa-light-rail/
 BG,Sofia,Line 1 northern,2009,2012,0,5.1,60%,3.1,4,Measured,407,BGN,2010,1.69,687.83,134.8686275,Media,https://www.novinite.com/articles/167648/Subway+Trains+to+Sofia+Airport+Start+Running+at+1+pm+on+April+2
 GR,Athens,Line 4,2019,2027,0,12.8,100%,12.8,15,Plan,1328,EUR,2023,1.3,1726.4,134.875,Plan,https://www.ametro.gr/?p=14801&lang=en
-TH,Bangkok,Pink Line,2017,2022,0,34.5,0%,0.0,30,Wiki,53500,THB,2019,0.087,4654.5,134.9130435,Media,https://www.bangkokpost.com/thailand/general/1129513/consortiums-bid-for-pink-yellow-lines
-PT,Lisbon,Green-yellow connection,2019,2023,0,2,100%,2.0,2,Media,210,EUR,2021,1.3,273,136.5,Media,http://www.theportugalnews.com/news/goverrnment-approves-plans-for-517m-lisbon-porto-metro-expansions/47817
+TH,Bangkok,Pink Line,2017,2022,0,34.5,0%,0,30,Wiki,53500,THB,2019,0.087,4654.5,134.9130435,Media,https://www.bangkokpost.com/thailand/general/1129513/consortiums-bid-for-pink-yellow-lines
+PT,Lisbon,Green-yellow connection,2019,2023,0,2,100%,2,2,Media,210,EUR,2021,1.3,273,136.5,Media,http://www.theportugalnews.com/news/goverrnment-approves-plans-for-517m-lisbon-porto-metro-expansions/47817
 CN,Shanghai,Line 17,2013,2018,0,35.3,46%,16.2,13,Trade,17300,RMB,2015,0.28,4844,137.223796,Trade,http://www.metro-report.com/news/single-view/view/shanghai-adds-metro-line-17.html
 SE,Stockholm,Nacka/Söderort,2016,2025,0,11.5,100%,11.5,6,Plan,14400,SEK,2020,0.11,1584,137.7391304,Plan,http://nyatunnelbanan.sll.se/sites/tunnelbanan/files/Faktablad_Upphandling_%20engelsk.pdf
-CL,Santiago,Project 63,2013,2019,0,37,100%,37.0,28,Plan,3000,USD,2016,1.7,5100,137.8378378,Plan,https://www.metro.cl/files/documentos/metro-investor-201709.pdf
-BG,Sofia,Line 3,2016,2019,0,12,100%,12.0,12,Plan,500,EUR,2017,3.32,1660,138.3333333,Plan,https://europa.eu/investeu/projects/sofia-metro-line-3_en
-IN,Delhi,Phase 3,2012,2020,0,160.6,33%,53.0,109,Wiki,410790,INR,2016,0.055,22593.45,140.6815068,Plan,http://www.delhimetrorail.com/funding.aspx
-PA,Panama,Line 2,2015,2019,0,21,0%,0.0,16,Trade,1800,USD,2017,1.65,2970,141.4285714,Trade,http://www.globalconstructionreview.com/news/spanishbrazilian-team-wins-18bn-p4an0a5ma-m4e2tr8o/
-IN,Hyderabad,Phase 1,2012,2019,0,72,0%,0.0,64,Wiki,188000,INR,2015,0.055,10340,143.6111111,Media,https://www.indiatoday.in/india/story/hyderabad-metro-project-delay-by-l-and-t-pushes-up-cost-by-over-30-per-cent-1094750-2017-11-26
+CL,Santiago,Project 63,2013,2019,0,37,100%,37,28,Plan,3000,USD,2016,1.7,5100,137.8378378,Plan,https://www.metro.cl/files/documentos/metro-investor-201709.pdf
+BG,Sofia,Line 3,2016,2019,0,12,100%,12,12,Plan,500,EUR,2017,3.32,1660,138.3333333,Plan,https://europa.eu/investeu/projects/sofia-metro-line-3_en
+IN,Delhi,Phase 3,2012,2020,0,160.6,33%,53,109,Wiki,410790,INR,2016,0.055,22593.45,140.6815068,Plan,http://www.delhimetrorail.com/funding.aspx
+PA,Panama,Line 2,2015,2019,0,21,0%,0,16,Trade,1800,USD,2017,1.65,2970,141.4285714,Trade,http://www.globalconstructionreview.com/news/spanishbrazilian-team-wins-18bn-p4an0a5ma-m4e2tr8o/
+IN,Hyderabad,Phase 1,2012,2019,0,72,0%,0,64,Wiki,188000,INR,2015,0.055,10340,143.6111111,Media,https://www.indiatoday.in/india/story/hyderabad-metro-project-delay-by-l-and-t-pushes-up-cost-by-over-30-per-cent-1094750-2017-11-26
 CH,Zurich,Durchmesserlinie,2007,2014,1,9.6,50%,4.8,1,Trade,2030,CHF,2010,0.68,1380.4,143.7916667,Trade,https://www.railwaygazette.com/infrastructure/cross-city-tunnel-opening-increases-capacity-in-zurich/39619.article
 IT,Milan,Line 4,2015,2023,0,15.2,100%,15.2,21,Wiki,1699,EUR,2019,1.3,2208.7,145.3092105,Plan,http://www.metro4milano.it/progetto/costi-e-finanziamenti/
 CA,Toronto,Sheppard,1994,2002,0,5.5,100%,5.5,5,Media,1000,CAD,1998,0.8,800,145.4545455,Media,https://www.theglobeandmail.com/news/toronto/sheppard-subway-extension-a-quarter-the-stops-for-three-times-the-cost/article622366/
-TH,Bangkok,Sukhumvit Line to Kheka,2012,2018,0,12.6,0%,0.0,9,Wiki,21400,THB,2015,0.087,1861.8,147.7619048,Media,https://www.bangkokpost.com/thailand/general/1140841/bma-to-postpone-test-run-of-bearing-samrong-skytrain
+TH,Bangkok,Sukhumvit Line to Kheka,2012,2018,0,12.6,0%,0,9,Wiki,21400,THB,2015,0.087,1861.8,147.7619048,Media,https://www.bangkokpost.com/thailand/general/1140841/bma-to-postpone-test-run-of-bearing-samrong-skytrain
 IN,Ahmedabad,Phase 1,2015,2020,0,40,16%,6.4,33,Wiki,107730,INR,2017,0.055,5925.15,148.12875,Media,https://www.livemint.com/industry/infrastructure/pm-narendra-modi-inaugurates-ahmedabad-metro-first-phase-takes-a-ride-1551707985388.html
-TH,Bangkok,Yellow Line,2017,2022,0,30.4,0%,0.0,23,Wiki,51900,THB,2019,0.087,4515.3,148.5296053,Media,https://www.bangkokpost.com/thailand/general/1129513/consortiums-bid-for-pink-yellow-lines
+TH,Bangkok,Yellow Line,2017,2022,0,30.4,0%,0,23,Wiki,51900,THB,2019,0.087,4515.3,148.5296053,Media,https://www.bangkokpost.com/thailand/general/1129513/consortiums-bid-for-pink-yellow-lines
 MX,Guadalajara,Line 3,2014,2020,0,21.5,25%,5.4,18,Trade,30400,MXN,2017,0.106,3222.4,149.8790698,Media,https://www.informador.mx/jalisco/Recorte-amenaza-arranque-de-Linea-3-en-2019-20181219-0027.html
 AU,Sydney,Metro NW,2013,2019,0,36,42%,15.1,13,Wiki,7800,AUD,2016,0.7,5460,151.6666667,Plan,https://www.transport.nsw.gov.au/news-and-events/media-releases/sydney-metro-northwest-under-budget
 GR,Thessaloniki,Kalamaria Extension,2013,2021,0,4.8,100%,4.8,5,Plan,568,EUR,2017,1.3,738.4,153.8333333,Plan,https://www.ametro.gr/wp-content/uploads/2018/08/AM_Xrimatooikonomikes_katastaseis_2017.pdf
@@ -93,47 +93,47 @@ IT,Rome,Line B1 extension,2010,2015,0,3.9,100%,3.9,3,Plan,527,EUR,2012,1.3,685.1
 GR,Thessaloniki,Main line,2006,2020,0,9.5,100%,9.5,13,Plan,1284,EUR,2014,1.3,1669.2,175.7052632,Plan,https://www.ametro.gr/wp-content/uploads/2018/08/AM_Xrimatooikonomikes_katastaseis_2017.pdf
 ES,Barcelona,L9/10,2003,2026,0,47.8,91%,43.5,52,Plan,6500,EUR,2014,1.3,8450,176.7782427,Trade,http://www.aftes.asso.fr/doc_gd_public/article_fichier/T216-315a322Barcelone.pdf
 DE,Hamburg,U4 to Elbbrücken,2014,2018,0,1.3,100%,1.3,1,Media,178,EUR,2016,1.3,231.4,178,Media,https://www.nahverkehrhamburg.de/u4-verlaengerung-in-horner-geest-soll-465-millionen-euro-kosten-9328/
-UA,Kyiv,M3 to Vynohradar,2018,2021,0,4,100%,4.0,2,Media,5993,UAH,2020,0.121,725.153,181.28825,Media,https://www.unian.info/kiev/10350087-kyiv-metro-signs-contract-for-subway-line-construction-to-kyiv-s-vynohradar-district.html
+UA,Kyiv,M3 to Vynohradar,2018,2021,0,4,100%,4,2,Media,5993,UAH,2020,0.121,725.153,181.28825,Media,https://www.unian.info/kiev/10350087-kyiv-metro-signs-contract-for-subway-line-construction-to-kyiv-s-vynohradar-district.html
 RU,Nizhny Novgorod,Line 2 extension,2015,2018,0,2.5,100%,2.5,1,Trade,11000,RUB,2016,0.042,462,184.8,Trade,https://www.metro-report.com/analysis/single-news/view/the-winners-and-losers-of-russian-metros.html
 BG,Sofia,Line 2,2008,2012,0,17,90%,15.3,11,Trade,952,EUR,2010,3.32,3160.64,185.92,Trade,https://www.railway-technology.com/uncategorised/newsbulgaria-opens-sofia-metro-line-2/
 IL,Tel Aviv,Red Line,2015,2021,0,23,43%,9.9,33,Wiki,16000,NIS,2018,0.268,4288,186.4347826,Media,https://en.globes.co.il/en/article-first-third-of-red-line-completed-1001205843
 IN,Bangalore,Phase 1,2006,2017,0,42.3,20%,8.5,41,Wiki,144050,INR,2011,0.055,7922.75,187.2990544,Media,https://economictimes.indiatimes.com/industry/transportation/railways/cost-and-time-overrun-marks-bengaluru-metro-phase-i/articleshow/57550535.cms
-IR,Tehran,Line 6,,2020,0,31,100%,31.0,29,Media,65000000,IRR,2017,0.00009,5850,188.7096774,Media,https://financialtribune.com/articles/auto/78612/tehran-municipality-struggling-with-subway-development-costs
-IN,Mumbai,Line 5,2017,2021,0,24,0%,0.0,17,Media,84160,INR,2019,0.055,4628.8,192.8666667,Media,https://www.livemint.com/Politics/Z1VWUGDGga5lJjdm8llzKI/Mumbai-Metros-corridor-5-and-6-gets-Maharashtra-cabinet-ap.html
-IN,Mumbai,Line 2A,2016,2020,0,18,0%,0.0,17,Media,64100,INR,2018,0.055,3525.5,195.8611111,Media,https://www.makaan.com/iq/news-views/mumbai-metro-line-2a-to-get-operational-by-2020
-TH,Bangkok,Brown Line,2020,,0,22,0%,0.0,18,Media,50000,THB,2020,0.087,4350,197.7272727,Media,https://www.bangkokpost.com/thailand/general/1414707/brown-line-monorail-expressway-take-shape
-IR,Tehran,Line 7,,2018,0,27,100%,27.0,25,Media,60000000,IRR,2017,0.00009,5400,200,Media,https://financialtribune.com/articles/auto/78612/tehran-municipality-struggling-with-subway-development-costs
+IR,Tehran,Line 6,,2020,0,31,100%,31,29,Media,65000000,IRR,2017,0.00009,5850,188.7096774,Media,https://financialtribune.com/articles/auto/78612/tehran-municipality-struggling-with-subway-development-costs
+IN,Mumbai,Line 5,2017,2021,0,24,0%,0,17,Media,84160,INR,2019,0.055,4628.8,192.8666667,Media,https://www.livemint.com/Politics/Z1VWUGDGga5lJjdm8llzKI/Mumbai-Metros-corridor-5-and-6-gets-Maharashtra-cabinet-ap.html
+IN,Mumbai,Line 2A,2016,2020,0,18,0%,0,17,Media,64100,INR,2018,0.055,3525.5,195.8611111,Media,https://www.makaan.com/iq/news-views/mumbai-metro-line-2a-to-get-operational-by-2020
+TH,Bangkok,Brown Line,2020,,0,22,0%,0,18,Media,50000,THB,2020,0.087,4350,197.7272727,Media,https://www.bangkokpost.com/thailand/general/1414707/brown-line-monorail-expressway-take-shape
+IR,Tehran,Line 7,,2018,0,27,100%,27,25,Media,60000000,IRR,2017,0.00009,5400,200,Media,https://financialtribune.com/articles/auto/78612/tehran-municipality-struggling-with-subway-development-costs
 FR,Lyon,Line B to Hospital-Sud,2017,2023,0,2.5,100%,2.5,2,Plan,394,EUR,2020,1.3,512.2,204.88,Plan,http://www.oullins.fr/territoire-d-avenir/prolongement-du-metro-b-382.html
-IN,Mumbai,Line 7,2016,2020,0,16.5,0%,0.0,14,Wiki,62000,INR,2018,0.055,3410,206.6666667,Media,https://www.moneylife.in/article/mumbai-metro-windfall-for-epc-systems-and-rolling-stock-sectors/50737.html
+IN,Mumbai,Line 7,2016,2020,0,16.5,0%,0,14,Wiki,62000,INR,2018,0.055,3410,206.6666667,Media,https://www.moneylife.in/article/mumbai-metro-windfall-for-epc-systems-and-rolling-stock-sectors/50737.html
 MX,Mexico City,Line 12,2008,2012,0,24.5,43%,10.5,20,Wiki,47900,MXN,2010,0.106,5077.4,207.2408163,Media,http://www.elfinanciero.com.mx/nacional/linea-12-costara-mas-que-el-tren-mexico-queretaro
-PL,Warsaw,Line 2 extension 2,2018,2021,0,4,100%,4.0,3,Trade,335,EUR,2019,2.5,837.5,209.375,Trade,https://www.railwaypro.com/wp/a-single-bidder-for-warsaw-metro-line-2-extension/
-IN,Gurgaon,Phase 2,2013,2017,0,6.3,0%,0.0,5,Wiki,24230,INR,2015,0.055,1332.65,211.531746,Media,http://www.ptinews.com/news/8562521_Second-phase-of-Gurgaon-s-Rapid-Metro-launched.html
+PL,Warsaw,Line 2 extension 2,2018,2021,0,4,100%,4,3,Trade,335,EUR,2019,2.5,837.5,209.375,Trade,https://www.railwaypro.com/wp/a-single-bidder-for-warsaw-metro-line-2-extension/
+IN,Gurgaon,Phase 2,2013,2017,0,6.3,0%,0,5,Wiki,24230,INR,2015,0.055,1332.65,211.531746,Media,http://www.ptinews.com/news/8562521_Second-phase-of-Gurgaon-s-Rapid-Metro-launched.html
 TH,Chiang Mai,Light rail,2021,2029,0,35,73%,25.6,26,Media,86000,THB,2025,0.087,7482,213.7714286,Media,https://www.bangkokpost.com/thailand/general/1538206/mrta-closes-in-on-2-rail-plans
 VN,Hanoi,Line 2,2011,2019,0,11.5,74%,8.5,12,Media,19555000,VND,2015,0.000126,2463.93,214.2547826,Media,http://saigondautu.com.vn/chu-diem-su-kien/5-du-an-doi-von-khung-61311.html
-IR,Tehran,Line 3 extension,2012,2014,0,11,100%,11.0,13,Trade,20000000,IRR,2013,0.00012,2400,218.1818182,Media,https://web.archive.org/web/20150317035633/http://www.tehrantimes.com/economy-and-business/115284-12km-section-of-tehran-metro-inaugurated
-IN,Kochi,Metro,2012,2017,0,13,0%,0.0,11,Plan,51818,INR,2015,0.055,2849.99,219.23,Plan,https://kochimetro.org/everything-you-need-to-know-about-the-kochi-metro/
+IR,Tehran,Line 3 extension,2012,2014,0,11,100%,11,13,Trade,20000000,IRR,2013,0.00012,2400,218.1818182,Media,https://web.archive.org/web/20150317035633/http://www.tehrantimes.com/economy-and-business/115284-12km-section-of-tehran-metro-inaugurated
+IN,Kochi,Metro,2012,2017,0,13,0%,0,11,Plan,51818,INR,2015,0.055,2849.99,219.23,Plan,https://kochimetro.org/everything-you-need-to-know-about-the-kochi-metro/
 PK,Lahore,Orange Line,2015,2020,0,27.1,6%,1.6,26,Wiki,170000,PKR,2017,0.035,5950,219.5571956,Media,https://www.dawn.com/news/1436724
-IN,Mumbai,Line 10,2019,2024,0,11.2,0%,0.0,4,Media,44760,INR,2022,0.055,2461.8,219.8035714,Media,https://timesofindia.indiatimes.com/city/mumbai/mmrda-jurisdiction-to-expand-mumbai-metro-operations-corp-to-be-set-up/articleshow/66740043.cms
+IN,Mumbai,Line 10,2019,2024,0,11.2,0%,0,4,Media,44760,INR,2022,0.055,2461.8,219.8035714,Media,https://timesofindia.indiatimes.com/city/mumbai/mmrda-jurisdiction-to-expand-mumbai-metro-operations-corp-to-be-set-up/articleshow/66740043.cms
 DK,Copenhagen,City Circle Line,2013,2019,0,15.5,100%,15.5,17,Trade,24800,DKK,2016,0.138,3422.4,220.8,Media,http://cphpost.dk/news/copenhagen-metro-city-ring-delayed-again-report.html
 IN,Delhi,Phase 4 first half,2019,2025,0,61.7,36%,22.2,46,Media,249487,INR,2022,0.055,13721.785,222.3952188,Media,https://housing.com/news/delhi-metro-phase-iv-finally-approved-government/
 CA,Toronto,Eglinton Crosstown,2011,2021,0,19,66%,12.5,25,Wiki,5300,CAD,2016,0.8,4240,223.1578947,Media,https://www.thestar.com/news/gta/transportation/2015/11/03/91b-crosstown-lrt-mega-contract-comes-in-under-estimates.html
 PA,Panama,Line 1,2010,2014,0,13.7,53%,7.3,12,Wiki,1880,USD,2012,1.65,3102,226.4233577,Plan,https://www.elmetrodepanama.com/los-costos-de-la-construccion-de-la-primera-etapa-de-la-linea-1-del-metro-se-mantienen-en-el-monto-original-de-1-880-millones/
-IN,Bangalore,Phase 2 (net of Red Line),2017,2024,0,50.8,0%,0.0,56,Wiki,209860,INR,2020,0.055,11542.3,227.2106299,Media,https://www.newindianexpress.com/cities/bengaluru/2018/oct/27/namma-metro-phase-2-will-now-cost-rs-32000-crore-deputy-chief-minister-g-parameshwara-1890689.html
+IN,Bangalore,Phase 2 (net of Red Line),2017,2024,0,50.8,0%,0,56,Wiki,209860,INR,2020,0.055,11542.3,227.2106299,Media,https://www.newindianexpress.com/cities/bengaluru/2018/oct/27/namma-metro-phase-2-will-now-cost-rs-32000-crore-deputy-chief-minister-g-parameshwara-1890689.html
 IN,Chennai,Phase 1 extension,2016,2020,0,9.1,28%,2.5,9,Media,37700,INR,2018,0.055,2073.5,227.8571429,Media,https://www.thehindu.com/news/cities/chennai/track-work-in-metro-phase-1-extension-to-begin-soon/article25675477.ece/amp/
-FR,Paris,GPX,2017,2030,0,200,80%,160.0,84,Wiki,35080,EUR,2012,1.3,45604,228.02,Plan,https://www.scribd.com/document/369302347/Rapport-de-la-Cour-des-Comptes-Societe-Du-Grand-Paris
+FR,Paris,GPX,2017,2030,0,200,80%,160,84,Wiki,35080,EUR,2012,1.3,45604,228.02,Plan,https://www.scribd.com/document/369302347/Rapport-de-la-Cour-des-Comptes-Societe-Du-Grand-Paris
 DE,Hamburg,U4 to Dannerallee,2019,,0,2.6,100%,2.6,3,Media,465,EUR,2019,1.3,604.5,232.5,Media,https://www.nahverkehrhamburg.de/u4-verlaengerung-in-horner-geest-soll-465-millionen-euro-kosten-9328/
-IN,Mumbai,Line 9,2019,2022,0,10.3,0%,0.0,10,Media,45000,INR,2021,0.055,2475,240.2912621,Media,https://www.moneylife.in/article/mumbai-metro-windfall-for-epc-systems-and-rolling-stock-sectors/50737.html
+IN,Mumbai,Line 9,2019,2022,0,10.3,0%,0,10,Media,45000,INR,2021,0.055,2475,240.2912621,Media,https://www.moneylife.in/article/mumbai-metro-windfall-for-epc-systems-and-rolling-stock-sectors/50737.html
 AU,Sydney,Metro City & SW,2017,2024,0,30,51%,15.3,7,Wiki,10300,AUD,2021,0.7,7210,240.3333333,Media,https://www.abc.net.au/news/2015-06-04/new-sydney-harbour-crossing-at-rocket-speed-after-power-vote/6521304
 FR,Paris,Line 1 extension,2020,2030,0,4.9,100%,4.9,3,Plan,910,EUR,2012,1.3,1183,241.4285714,Plan,http://www.val-de-fontenay.metro-ligne1.fr/download/fiches_thematiques/L1_Fiche_Co%C3%BBt-projet.pdf
 IN,Chennai,Phase 1,2009,2019,0,45.1,53%,23.9,34,Media,200000,INR,2014,0.055,11000,243.902439,Media,https://www.business-standard.com/article/current-affairs/phase-ii-chennai-metro-project-to-cost-rs-36-000-cr-114022800932_1.html
-IN,Mumbai,Line 4,2018,2021,0,32.3,0%,0.0,32,Wiki,145490,INR,2020,0.055,8001.95,247.7383901,Media,https://www.freepressjournal.in/mumbai/everything-you-need-to-know-about-metro-2b-and-metro-4/980470
+IN,Mumbai,Line 4,2018,2021,0,32.3,0%,0,32,Wiki,145490,INR,2020,0.055,8001.95,247.7383901,Media,https://www.freepressjournal.in/mumbai/everything-you-need-to-know-about-metro-2b-and-metro-4/980470
 CZ,Prague,Line A extension,2010,2015,0,6.1,100%,6.1,4,Wiki,20200,CZK,2012,0.0752,1519.04,249.0229508,Trade,https://www.railwaygazette.com/news/single-view/view/prime-minister-opens-praha-metro-extension.html
-SE,Stockholm,Citybanan,2007,2017,1,7.4,81%,6.0,2,Plan,16800,SEK,2007,0.11,1848,249.7297297,Plan,https://web.archive.org/web/20150402164159/http://www.trafikverket.se/en/startpage/Projects/Railway-construction-projects1/The-Stockholm-City-Line/
+SE,Stockholm,Citybanan,2007,2017,1,7.4,81%,6,2,Plan,16800,SEK,2007,0.11,1848,249.7297297,Plan,https://web.archive.org/web/20150402164159/http://www.trafikverket.se/en/startpage/Projects/Railway-construction-projects1/The-Stockholm-City-Line/
 CN,Shanghai,Line 9 extension,2013,2018,0,14.1,100%,14.1,9,Trade,12700,RMB,2015,0.28,3556,252.1985816,Trade,http://www.metro-report.com/news/single-view/view/shanghai-adds-metro-line-17.html
-IN,Mumbai,Line 6,2017,2022,0,14.5,0%,0.0,13,Wiki,66720,INR,2020,0.055,3669.6,253.0758621,Media,https://www.livemint.com/Politics/Z1VWUGDGga5lJjdm8llzKI/Mumbai-Metros-corridor-5-and-6-gets-Maharashtra-cabinet-ap.html
+IN,Mumbai,Line 6,2017,2022,0,14.5,0%,0,13,Wiki,66720,INR,2020,0.055,3669.6,253.0758621,Media,https://www.livemint.com/Politics/Z1VWUGDGga5lJjdm8llzKI/Mumbai-Metros-corridor-5-and-6-gets-Maharashtra-cabinet-ap.html
 ID,Jakarta,MRT first phase,2013,2019,0,16,58%,9.3,13,Media,1200,USD,2016,3.4,4080,255,Media,https://www.bloomberg.com/news/articles/2019-02-26/the-43-billion-race-to-fix-jakarta-s-choking-traffic-starts-now
 FR,Paris,Line 12 to Front Populaire,2007,2012,0,1.5,100%,1.5,1,Measured,295,EUR,2009,1.3,383.5,255.6666667,Plan,https://plainecommune.fr/projets/transports-et-mobilite/prolongement-de-la-ligne-12/
-IN,Mumbai,Line 2B,2018,2023,0,23.5,0%,0.0,22,Media,109860,INR,2021,0.055,6042.3,257.1191489,Media,https://www.makaan.com/iq/news-views/mumbai-metro-line-2a-to-get-operational-by-2020
+IN,Mumbai,Line 2B,2018,2023,0,23.5,0%,0,22,Media,109860,INR,2021,0.055,6042.3,257.1191489,Media,https://www.makaan.com/iq/news-views/mumbai-metro-line-2a-to-get-operational-by-2020
 BE,Brussels,Line 3,2020,2028,0,4.4,100%,4.4,7,Plan,900,EUR,2024,1.3,1170,265.9090909,Plan,https://www.metro3.be/fr/faq
 FR,Paris,Line 4 to Bagneux,2014,2019,0,1.8,100%,1.8,2,Plan,380,EUR,2011,1.3,494,274.4444444,Plan,http://www.prolongement-m4.fr/sites/default/files/documents/m4-bagneux-dossierpresse_180316_bd.pdf
 TW,Taipei,Wanda,2018,2020,0,13.3,21%,2.8,14,Media,55800,TWD,2019,0.0664,3705.12,278.5804511,Media,http://www.taipeitimes.com/News/taiwan/archives/2018/05/03/2003692436
@@ -141,30 +141,30 @@ BR,Sao Paulo,Line 6 phase 1,2015,2023,0,15.9,84%,13.4,15,Trade,8900,BRL,2019,0.5
 JP,Tokyo,Fukutoshin Line,2001,2008,0,8.9,100%,8.9,8,Media,250000,JPY,2004,0.01,2500,280.8988764,Media,https://www.japantimes.co.jp/news/2008/06/12/national/fukutoshin-subway-line-debuts/
 IN,Bangalore,Red Line (Reach 6),2017,2023,0,21.3,65%,13.8,24,Wiki,110140,INR,2020,0.055,6057.7,284.399061,Media,https://www.dsij.in/article-details/articleid/18925/bmrcl-to-construct-a-11-014-cr-metro-line-in-bengaluru
 JP,Osaka,Tokaido branch relocation,2015,2023,1,2.4,100%,2.4,1,Plan,69000,JPY,2019,0.01,690,287.5,Plan,https://www.westjr.co.jp/global/en/ir/library/fact-sheets/2018/pdf/fact2018.pdf
-AT,Vienna,U2/U5 cross,2019,2027,0,9,100%,9.0,11,Plan,2000,EUR,2023,1.3,2600,288.8888889,Media,https://wien.orf.at/news/stories/2940360/
-FR,Paris,RER E extension,2018,2022,1,8,100%,8.0,2,Wiki,1800,EUR,2011,1.3,2340,292.5,Media,https://www.usinenouvelle.com/article/le-prolongement-a-l-ouest-de-paris-du-rer-e-devient-enfin-realite.N775434
+AT,Vienna,U2/U5 cross,2019,2027,0,9,100%,9,11,Plan,2000,EUR,2023,1.3,2600,288.8888889,Media,https://wien.orf.at/news/stories/2940360/
+FR,Paris,RER E extension,2018,2022,1,8,100%,8,2,Wiki,1800,EUR,2011,1.3,2340,292.5,Media,https://www.usinenouvelle.com/article/le-prolongement-a-l-ouest-de-paris-du-rer-e-devient-enfin-realite.N775434
 CA,Toronto,Vaughan,2009,2017,0,8.6,100%,8.6,6,Media,3200,CAD,2013,0.8,2560,297.6744186,Media,https://www.thestar.com/news/gta/transportation/2017/12/15/trudeau-wynne-tory-on-hand-to-cut-ribbon-on-32-billion-subway-extension.html
-BR,Sao Paulo,Line 5 extension,2010,2018,0,12,100%,12.0,11,Wiki,2517,USD,2014,1.43,3599.31,299.9425,Trade,http://projects.worldbank.org/P116170/sao-paulo-metro-line-5-project?lang=en
-UA,Kyiv,M4,2021,2026,0,20,65%,13.0,13,Trade,2000,USD,2023,3,6000,300,Trade,http://www.globalconstructionreview.com/news/china-railway-completes-feasibility-study-kiev-met/
+BR,Sao Paulo,Line 5 extension,2010,2018,0,12,100%,12,11,Wiki,2517,USD,2014,1.43,3599.31,299.9425,Trade,http://projects.worldbank.org/P116170/sao-paulo-metro-line-5-project?lang=en
+UA,Kyiv,M4,2021,2026,0,20,65%,13,13,Trade,2000,USD,2023,3,6000,300,Trade,http://www.globalconstructionreview.com/news/china-railway-completes-feasibility-study-kiev-met/
 UK,London,Jubilee line extension,1993,1999,0,16,80%,12.8,13,Wiki,3500,GBP,1996,1.4,4900,306.25,Media,http://news.bbc.co.uk/2/hi/uk_news/529006.stm
 DE,Berlin,U5-U55 connection,2010,2020,0,2.2,100%,2.2,3,Wiki,525,EUR,2015,1.3,682.5,310.2272727,Media,https://www.morgenpost.de/berlin/article206534979/Riss-im-neuen-U-Bahn-Tunnel-Unter-den-Linden-wird-gesperrt.html
-RU,Saint Petersburg,Line 3 extension,2014,2018,0,5,100%,5.0,2,Trade,37000,RUB,2016,0.042,1554,310.8,Trade,https://www.metro-report.com/analysis/single-news/view/the-winners-and-losers-of-russian-metros.html
-PL,Warsaw,Line 2 extension,2015,2019,0,6,100%,6.0,6,Plan,749,EUR,2017,2.5,1872.5,312.0833333,Plan,http://ec.europa.eu/regional_policy/en/projects/poland/warsaws-metro-line-2-extended-to-increase-public-transport-use-and-reduce-pollution
+RU,Saint Petersburg,Line 3 extension,2014,2018,0,5,100%,5,2,Trade,37000,RUB,2016,0.042,1554,310.8,Trade,https://www.metro-report.com/analysis/single-news/view/the-winners-and-losers-of-russian-metros.html
+PL,Warsaw,Line 2 extension,2015,2019,0,6,100%,6,6,Plan,749,EUR,2017,2.5,1872.5,312.0833333,Plan,http://ec.europa.eu/regional_policy/en/projects/poland/warsaws-metro-line-2-extended-to-increase-public-transport-use-and-reduce-pollution
 FR,Paris,Line 11,2016,2023,0,5.4,100%,5.4,6,Plan,1300,EUR,2014,1.3,1690,312.962963,Plan,http://prolongementligne11est.fr/les-acteurs/
 RU,Moscow,Line 11,2017,2022,0,66.7,100%,66.7,31,Media,501000,RUB,2018,0.042,21042,315.4722639,Media,https://www.rbc.ru/politics/23/11/2017/5a16bd6a9a7947a6f487fe13
 VN,Ho Chi Minh City,Line 1,2012,2020,0,19.7,13%,2.6,14,Plan,50000000,VND,2016,0.000126,6300,319.7969543,Media,https://e.vnexpress.net/news/news/six-years-on-saigon-s-first-metro-line-nowhere-near-completion-3837441.html
 IN,Chennai,Phase 2,2020,2026,0,118.9,36%,42.8,128,Media,691800,INR,2023,0.055,38049,320.0084104,Media,https://www.businesstoday.in/sectors/infra/relief-for-commuters-in-chennai-metro-network-to-expand-phase-ii-work-begins/story/350907.html
 BR,Sao Paulo,Line 4,2004,2014,0,12.8,100%,12.8,11,Wiki,5600,BRL,2009,0.77,4312,336.875,Media,https://www.economist.com/the-americas/2012/03/31/not-yet-fit-for-a-metropolis
-BD,Dhaka,Line 6,2015,2020,0,20.2,0%,0.0,16,Media,220000,BDT,2017,0.031,6820,337.6237624,Media,http://www.dhakatribune.com/bangladesh/development/2017/10/12/just-12-progress-made-metro-rail-project-4-years/
+BD,Dhaka,Line 6,2015,2020,0,20.2,0%,0,16,Media,220000,BDT,2017,0.031,6820,337.6237624,Media,http://www.dhakatribune.com/bangladesh/development/2017/10/12/just-12-progress-made-metro-rail-project-4-years/
 TH,Bangkok,Orange Line phase 1,2017,2023,0,21.2,58%,12.3,17,Wiki,82900,THB,2020,0.087,7212.3,340.2028302,Media,https://www.bangkokpost.com/thailand/general/939669/orange-line-wins-cabinet-approval
 IN,Mumbai,Line 7A,2019,2022,0,3.2,69%,2.2,2,Media,20000,INR,2021,0.055,1100,343.75,Media,https://www.moneylife.in/article/mumbai-metro-windfall-for-epc-systems-and-rolling-stock-sectors/50737.html
 DE,Leipzig,City Tunnel,2003,2013,1,3.6,100%,3.6,4,Wiki,960,EUR,2008,1.3,1248,346.6666667,Plan,http://dip21.bundestag.de/dip21/btd/17/029/1702939.pdf
 DE,Dusseldorf,Wehrhahn Line,2007,2016,0,3.4,100%,3.4,6,Wiki,929,EUR,2012,1.3,1207.7,355.2058824,Media,https://www.wz.de/nrw/duesseldorf/wehrhahn-linie-wird-noch-viel-teurer_aid-25646289
 JP,Tokyo,Oedo Line ring,1992,2000,0,27.8,100%,27.8,27,Plan,988600,JPY,1999,0.01,9886,355.6115108,Plan,https://web.archive.org/web/20060517042836/http://www.kotsu.metro.tokyo.jp/news/pdf/sub_t_20060324a_01.pdf
 RU,Saint Petersburg,Line 5 extension,2013,2019,0,5.2,100%,5.2,3,Wiki,44600,RUB,2016,0.042,1873.2,360.2307692,Media,http://krti.gov.spb.ru/press/news/52016/?category=17
-VN,Hanoi,Line 3,2010,2022,0,12.5,32%,4.0,12,Media,36000000,VND,2016,0.000126,4536,362.88,Media,https://vnexpress.net/thoi-su/thanh-tra-chi-ra-nhieu-vi-pham-tai-du-an-metro-1-7-ty-usd-o-ha-noi-3777287.html
+VN,Hanoi,Line 3,2010,2022,0,12.5,32%,4,12,Media,36000000,VND,2016,0.000126,4536,362.88,Media,https://vnexpress.net/thoi-su/thanh-tra-chi-ra-nhieu-vi-pham-tai-du-an-metro-1-7-ty-usd-o-ha-noi-3777287.html
 RU,Moscow,2011-20 program,2011,2022,0,150,57%,85.5,78,Media,1300000,RUB,2016,0.042,54600,364,Media,http://www.finmarket.ru/main/article/5103408
-JP,Tokyo,Monorail to Tokyo Station,2015,2025,1,3,0%,0.0,,Trade,109500,JPY,2020,0.01,1095,365,Trade,https://www.railwaygazette.com/tokyo-monorail-plans-to-extend/39875.article
+JP,Tokyo,Monorail to Tokyo Station,2015,2025,1,3,0%,0,,Trade,109500,JPY,2020,0.01,1095,365,Trade,https://www.railwaygazette.com/tokyo-monorail-plans-to-extend/39875.article
 JP,Fukuoka,Nanakuma Line extension,2014,2022,0,1.6,100%,1.6,2,Wiki,58700,JPY,2018,0.01,587,366.875,Media,https://www.fukuoka-now.com/en/news/nanakuma-subway-line-extension-delayed/
 TH,Bangkok,Blue Line loop (underground),2011,2019,0,5.4,100%,5.4,4,Wiki,23000,THB,2015,0.087,2001,370.5555556,Trade,https://www.railwaygazette.com/bangkok-to-complete-blue-line-loop/35788.article
 US,Seattle,U-Link,2009,2016,0,5.1,100%,5.1,2,Media,1900,USD,2012,1,1900,372.5490196,Plan,https://www.soundtransit.org/sites/default/files/U%20Link%20Extension%20Archive.pdf
@@ -176,17 +176,17 @@ UA,Kharkiv,M3 extension,2018,2024,0,3.5,100%,3.5,2,Plan,382,EUR,2021,3.9,1489.8,
 CA,Toronto,Scarborough,,,0,6.2,100%,6.2,1,Wiki,3480,CAD,2018,0.8,2784,449.0322581,Plan,https://www.toronto.ca/legdocs/mmis/2019/ex/bgrd/backgroundfile-131526.pdf
 US,Los Angeles,Purple Phase 1,2014,2023,0,6.2,100%,6.2,3,Media,2800,USD,2018,1,2800,451.6129032,Media,https://la.streetsblog.org/2018/04/25/metro-celebrates-purple-line-extension-1-tunnel-machines-set-to-start-in-august/
 HU,Budapest,Line 4,2006,2014,0,7.4,100%,7.4,10,Trade,452500,HUF,2010,0.00792,3583.8,484.2972973,Trade,https://www.railwaygazette.com/news/urban/single-view/view/automated-metro-line-m4-opens-in-budapest.html
-US,San Jose,BART,2019,2026,0,9.6,83%,8.0,4,Plan,4700,USD,2022,1,4700,489.5833333,Plan,http://www.vta.org/bart/faqphaseII
+US,San Jose,BART,2019,2026,0,9.6,83%,8,4,Plan,4700,USD,2022,1,4700,489.5833333,Plan,http://www.vta.org/bart/faqphaseII
 IN,Mumbai,Line 3,2016,2021,0,33.5,100%,33.5,27,Media,300000,INR,2019,0.055,16500,492.5373134,Media,https://www.business-standard.com/article/companies/mumbai-metro-line-3-project-estimated-to-cost-rs-7-000-crore-more-119030601192_1.html
 SG,Singapore,Downtown MRT Line,2008,2017,0,41.9,100%,41.9,34,Wiki,21000,SGD,2012,1,21000,501.1933174,Plan,https://www.todayonline.com/singapore/comparing-singapores-newest-and-oldest-mrt-lines
 PL,Warsaw,Line 2,2010,2015,0,6.5,100%,6.5,7,Trade,5900,PLN,2012,0.556,3280.4,504.6769231,Trade,https://www.railwaygazette.com/news/single-view/view/warszawa-opens-second-metro-line.html
-BD,Dhaka,Line 1,,2026,0,31.2,64%,20.0,19,Media,525610,BDT,2023,0.031,16293.91,522.2407051,Media,https://bdnews24.com/economy/2019/10/15/govt-approves-two-more-metro-rail-projects-worth-tk-938bn
+BD,Dhaka,Line 1,,2026,0,31.2,64%,20,19,Media,525610,BDT,2023,0.031,16293.91,522.2407051,Media,https://bdnews24.com/economy/2019/10/15/govt-approves-two-more-metro-rail-projects-worth-tk-938bn
 UK,London,Battersea,2015,2020,0,3.2,100%,3.2,2,Media,1200,GBP,2017,1.4,1680,525,Media,http://www.cityam.com/257486/full-steam-ahead-tunnelling-12bn-northern-line-extension
 VN,Ho Chi Minh City,Line 2 first phase,2020,2024,0,11.3,82%,9.3,11,Media,48000000,VND,2022,0.000126,6048,535.2212389,Media,https://www.itourvn.com/blog/an-overview-of-ho-chi-minh-city-metro-plan
 JP,Tokyo,Haneda express line,2022,2029,1,5.6,100%,5.6,2,Measured,300000,JPY,2025,0.01,3000,535.7142857,Media,http://www.asahi.com/ajw/articles/AJ201902160023.html
 CA,Montreal,Blue extension,2020,2026,0,5.8,100%,5.8,5,Media,3900,CAD,2018,0.8,3120,537.9310345,Media,https://montrealgazette.com/news/local-news/montreal-metro-green-light-for-blue-line-extension
 CA,Toronto,Ontario,,,0,15.5,57%,8.8,15,Plan,10450,CAD,2019,0.8,8360,539.3548387,Plan,https://metrolinx.files.wordpress.com/2019/07/click-here-to-view-the-ontario-line-initial-business-case.pdf
-SG,Singapore,Thomson MRT Line,2014,2024,0,43,100%,43.0,31,Plan,24000,SGD,2019,1,24000,558.1395349,Media,https://www.sgcarmart.com/news/article.php?AID=11107
+SG,Singapore,Thomson MRT Line,2014,2024,0,43,100%,43,31,Plan,24000,SGD,2019,1,24000,558.1395349,Media,https://www.sgcarmart.com/news/article.php?AID=11107
 US,Los Angeles,Regional Connector,2014,2022,0,3.1,100%,3.1,3,Plan,1756,USD,2018,1,1756,566.4516129,Plan,https://www.metro.net/projects/connector/
 US,Los Angeles,Purple Phase 2,2018,2025,0,4.2,100%,4.2,2,Trade,2400,USD,2021,1,2400,571.4285714,Trade,https://www.railwayage.com/passenger/rapid-transit/tutor-perini-og-jv-lands-lacmta-purple-line-contract/
 US,San Francisco,Central Subway,2010,2019,0,2.7,100%,2.7,3,Media,1570,USD,2014,1,1570,581.4814815,Media,https://sf.curbed.com/2017/7/25/16019566/chinatown-san-francisco-central-subway
@@ -195,18 +195,14 @@ TH,Bangkok,Orange Line phase 2,2020,2025,0,16.4,100%,16.4,12,Wiki,122000,THB,202
 BD,Dhaka,Line 5,,2028,0,19,68%,12.9,14,Media,412380,BDT,2024,0.031,12783.78,672.8305263,Media,https://bdnews24.com/economy/2019/10/15/govt-approves-two-more-metro-rail-projects-worth-tk-938bn
 EG,Cairo,Line 3 Phase 1,2006,2012,0,4.3,100%,4.3,5,Media,4200,EGP,2009,0.7,2940,683.7209302,Media,http://english.ahram.org.eg/NewsContent/3/12/35035/Business/Economy/Cairos-rd-underground-line-opens-Tuesday-linking-A.aspx
 CA,Toronto,Relief,,,0,7.5,100%,7.5,8,Plan,7224,CAD,2016,0.8,5779.2,770.56,Media,https://www.theglobeandmail.com/canada/toronto/article-toronto-mayor-tory-supports-new-city-transit-report-prioritizing/
-AU,Melbourne,Metro Tunnel,2018,2025,0,9,100%,9.0,5,Wiki,10000,AUD,2021,0.7,7000,777.7777778,Media,https://www.theage.com.au/national/victoria/private-sector-called-on-to-fund-multibilliondollar-melbourne-metro-rail-tunnel-20151118-gl29v3.html
-PH,Manila,Line 9 subway,2019,2025,0,25,100%,25.0,14,Media,356960,PHP,2022,0.0565,20168.24,806.7296,Media,https://news.mb.com.ph/2019/02/16/dotr-eyes-feb-27-metro-manila-subway-launch/
+AU,Melbourne,Metro Tunnel,2018,2025,0,9,100%,9,5,Wiki,10000,AUD,2021,0.7,7000,777.7777778,Media,https://www.theage.com.au/national/victoria/private-sector-called-on-to-fund-multibilliondollar-melbourne-metro-rail-tunnel-20151118-gl29v3.html
+PH,Manila,Line 9 subway,2019,2025,0,25,100%,25,14,Media,356960,PHP,2022,0.0565,20168.24,806.7296,Media,https://news.mb.com.ph/2019/02/16/dotr-eyes-feb-27-metro-manila-subway-launch/
 NZ,Auckland,City Rail Link,2013,2024,1,3.5,100%,3.5,4,Wiki,4419,NZD,2018,0.677,2991.663,854.7608571,Plan,https://ourauckland.aucklandcouncil.govt.nz/articles/news/2019/04/revised-cost-for-city-rail-link/
-UK,London,Crossrail,2009,2021,1,21,100%,21.0,8,Measured,13328,GBP,2015,1.4,18659.2,888.5333333,FOI,
-PH,Manila,Line 5,2019,2025,0,11,100%,11.0,10,Media,197000,PHP,2022,0.0565,11130.5,1011.863636,Media,https://news.abs-cbn.com/business/multimedia/infographic/07/27/18/the-makati-subway
-SG,Singapore,Circle Line Stage 6,2017,2025,0,4,100%,4.0,3,Media,4850,SGD,2021,1,4850,1212.5,Media,https://www.straitstimes.com/singapore/transport/last-stage-of-circle-line-to-cost-a-lot-more-than-first-5-stages
+UK,London,Crossrail,2009,2021,1,21,100%,21,8,Measured,13328,GBP,2015,1.4,18659.2,888.5333333,FOI,
+PH,Manila,Line 5,2019,2025,0,11,100%,11,10,Media,197000,PHP,2022,0.0565,11130.5,1011.863636,Media,https://news.abs-cbn.com/business/multimedia/infographic/07/27/18/the-makati-subway
+SG,Singapore,Circle Line Stage 6,2017,2025,0,4,100%,4,3,Media,4850,SGD,2021,1,4850,1212.5,Media,https://www.straitstimes.com/singapore/transport/last-stage-of-circle-line-to-cost-a-lot-more-than-first-5-stages
 US,New York,7 extension,2007,2014,0,1.6,100%,1.6,1,Measured,2100,USD,2011,1,2100,1312.5,Media,https://www.nytimes.com/2007/10/20/nyregion/20mta.html
 US,New York,Second Avenue Phase 1,2007,2016,0,2.7,100%,2.7,3,Measured,4450,USD,2012,1,4450,1648.148148,Media,https://www.nytimes.com/2016/12/19/nyregion/second-avenue-subway-opening.html
 US,New York,Gateway,2019,2026,1,5.3,100%,5.3,0,Measured,11100,USD,2023,1,11100,2094.339623,Plan,http://hudsontunnelproject.com/documents/deis/00%20Executive%20Summary.pdf
 US,New York,Second Avenue Phase 2,2019,2029,0,2.6,100%,2.6,3,Measured,6000,USD,2024,1,6000,2307.692308,Plan,https://www.transit.dot.gov/funding/grant-programs/capital-investments/new-york-city-2nd-ave-subway-phase-2-profile
 US,New York,East Side Access,2007,2022,1,2.8,100%,2.8,1,Measured,11000,USD,2015,1,11000,3928.571429,Media,https://www.nytimes.com/2018/04/25/nyregion/mta-east-side-access-11-billion.html
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
