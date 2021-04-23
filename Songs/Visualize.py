@@ -1,4 +1,4 @@
-#%%
+#%% IMPORT DEPENDENCIES
 import pandas as pd
 import networkx as nx
 import os
@@ -9,13 +9,11 @@ import seaborn as sns
 import altair as alt
 import plotly.graph_objects as go
 
-# %%
+# %% IMPORT ALL DATA IN FROM LOCAL FOLDER
 
 mypath = r'C:\Users\csucuogl\Documents\GitHub\IdeasTesting\Songs\data'
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 
-onlyfiles
-# %%
 df = pd.DataFrame()
 for _ in onlyfiles:
     temp = pd.read_csv( os.path.join(mypath,_) )
@@ -23,6 +21,8 @@ for _ in onlyfiles:
 
 df = df[df['pts_from']!='points received']
 df.sample(5)
+
+# %% FORMAT
 
 df['pts_from'] = df['pts_from'].str.upper()
 df['points_to'] = df['points_to'].str.upper()
@@ -32,6 +32,7 @@ df['points_to'] = df['points_to'].replace('-',' ' , regex = True )
 
 total_score = df.groupby('year').sum()['pts']
 
+#n_points contains normalized scores. score/total score of that year
 dfn = pd.DataFrame()
 for y in df['year'].unique():
     total = total_score[total_score.index == y ].tolist()[0] 
@@ -41,24 +42,24 @@ for y in df['year'].unique():
 
 dfn
 
-#%%
+#%% FORMATTING
 dfn = dfn[ ~dfn['points_to'].isin(['MONACO','MOROCCO']) ]
 dfn = dfn[ ~dfn['pts_from'].isin(['MONACO','MOROCCO']) ]
 
 dfn['region'] = None
 
-dfn.loc[ dfn['pts_from'].isin(['SWEDEN','DENMARK','NORWAY','FINLAND','ICELAND']) , 'region' ] = 'Sca'
-dfn.loc[ dfn['pts_from'].isin(['GERMANY','AUSTRIA','THE NETHERLANDS']) , 'region' ] = 'Germ'
-dfn.loc[ dfn['pts_from'].isin(['PORTUGAL','SPAIN','ITALY','GREECE']) , 'region' ] = 'Med'
-dfn.loc[ dfn['pts_from'].isin(['YUGOSLAVIA','RUSSIA','BOSNIA & HERZEGOVINA','SLOVENIA','CROATIA','POLAND','HUNGARY','ROMANIA','SLOVAKIA','NORTH MACEDONIA']) , 'region' ] = 'EEu'
-dfn.loc[ dfn['pts_from'].isin(['TURKEY','ISRAEL','CYPRUS','MALTA','MOROCCO']) , 'region' ] = 'EMed'
-dfn.loc[ dfn['pts_from'].isin(['FRANCE','BELGIUM','LUXEMBOURG','SWITZERLAND','MONACO']) , 'region' ] = 'WEU'
+dfn.loc[ dfn['pts_from'].isin(['SWEDEN','DENMARK','NORWAY','FINLAND','ICELAND']) , 'region' ] = 'Scandinavia'
+dfn.loc[ dfn['pts_from'].isin(['PORTUGAL','SPAIN','ITALY','GREECE']) , 'region' ] = 'Southern Europe'
+dfn.loc[ dfn['pts_from'].isin(['YUGOSLAVIA','RUSSIA','BOSNIA & HERZEGOVINA','SLOVENIA','CROATIA','POLAND','HUNGARY','ROMANIA','SLOVAKIA','NORTH MACEDONIA','ESTONIA','LITHUANIA']) , 'region' ] = 'Eastern Europe'
+dfn.loc[ dfn['pts_from'].isin(['TURKEY','ISRAEL','CYPRUS','MALTA']) , 'region' ] = 'EMed'
+dfn.loc[ dfn['pts_from'].isin(['FRANCE','BELGIUM','LUXEMBOURG','SWITZERLAND','GERMANY','AUSTRIA','THE NETHERLANDS']) , 'region' ] = 'Western Europe'
 dfn.loc[ dfn['pts_from'].isin(['UNITED KINGDOM','IRELAND']) , 'region' ] = 'UK'
-dfn.loc[ dfn['pts_from'].isin(['ESTONIA','LITHUANIA']) , 'region' ] = 'Balt'
 
 dfn
 
 #%% Single Country Over Time
+#Dropdown Layout
+
 df2 = dfn[ dfn['year'] > 1970 ]
 
 fig = go.Figure()
@@ -70,30 +71,28 @@ for i in range(len(conts)):
     viz = [True if i==n else False for n in range(len(conts)) ]
     temp = df2[df2['points_to']== cont ]
 
-    fig.add_trace(
+    fig.add_trace( #Scatter
         go.Scatter( 
             x= [temp['region'],temp['pts_from']], 
             y= temp['year'],
             mode='markers',
             text = temp['pts'],
-            hovertemplate = 'Points: %{text:.0f}',
+            hovertemplate = 'Points: %{text:.0f}<extra></extra>',
             marker=dict(
                 color = '#f4a261',
                 opacity = 0.4,
-                size= temp['pts']**1.3,
+                size= temp['pts']*1.5,
                 line=dict(width=0)
             ),
             showlegend = False,
-        )
-    )
+        ))
 
     down_list.append( #creates template to be used in button arguments
         dict(
             args = [dict( visible = viz)] ,
             label = cont.capitalize(),
             method="update"
-        )
-    )
+        ))
 
 fig.update_layout( # General Layout
     margin=dict(l=15, r=5, t=40, b=15),
@@ -129,35 +128,55 @@ fig.update_layout( # Add dropdown
         ]
     )
 
-fig.update_yaxes(nticks=25)
+fig.update_yaxes(nticks=25,range=[1960, 2020])
 fig.show()
 
-# %%
+# %% Analysis as a network
+# Take a random year - Map the voting a weighted/ directional network graph
 
 import random
 
 year = random.randint( dfn.year.min() , dfn.year.max() )
-df1 = dfn[ dfn['year'] == year ]
+df1 = dfn[ dfn['year'] == 1977 ]
 
 G = nx.DiGraph()
-for i,r in df1.iterrows():
-    G.add_edge( r['pts_from'], r['points_to'] , weight = r['pts']**3 )
+
+c_list = []
+for i,r in df1.iterrows(): # Received Points
+    G.add_edge(  r['points_to'] ,r['pts_from'], weight = r['n_pts'] )
+    c_list.append( r['region'] )
+
+ini_pos = nx.spring_layout(G,iterations=500)
+
+#Color Map
+color_list = []
+for i in ini_pos.keys():
+    _ = df1[ df1['pts_from'] == i ]['region'].unique()
+    if _ == 'Scandinavia':color_list.append( 'red' )
+    elif _ == 'Southern Europe':color_list.append( 'blue' )
+    elif _ == 'Eastern Europe':color_list.append( 'purple' )
+    elif _ == 'EMed':color_list.append( 'black' )
+    elif _ == 'Western Europe':color_list.append( 'grey' )
+    elif _ == 'UK':color_list.append( 'blue' )
+    else:color_list.append( 'magenta' )
 
 plt.figure(figsize=(18,12))
 nx.draw(G, 
-    pos = nx.spring_layout(G,iterations=1000), 
+    pos = ini_pos, 
     with_labels=True,
-    width= df['pts'].tolist() ,
-    node_size= 200,
+    width= df1['n_pts'].multiply(800).tolist() ,
     edge_color="skyblue", style="solid",
     font_size=14,
     arrows=True,
     alpha=0.5,
-    #node_color=carac['myvalue'], cmap=plt.cm.Blues 
+    arrowstyle='<-'
     )
+
+nx.draw_networkx_nodes(G, pos=ini_pos, node_size=200, node_color=color_list)
 
 plt.title( str(year) )
 plt.show()
 
 
 # %%
+
