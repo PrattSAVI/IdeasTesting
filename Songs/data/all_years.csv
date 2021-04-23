@@ -5366,7 +5366,7 @@
 8,10,Spain,1993,Ireland
 9,10,The Netherlands,1993,Ireland
 10,8,Austria,1993,Ireland
-11,8,Bosnia & Herzegovina,1993,Ireland
+11,8,Bosnia  Herzegovina,1993,Ireland
 12,7,Luxembourg,1993,Ireland
 13,7,Cyprus,1993,Ireland
 14,6,Croatia,1993,Ireland
@@ -5426,7 +5426,7 @@
 74,2,Denmark,1993,Cyprus
 76,12,Ireland,1993,The Netherlands
 77,10,Norway,1993,The Netherlands
-78,10,Bosnia & Herzegovina,1993,The Netherlands
+78,10,Bosnia  Herzegovina,1993,The Netherlands
 79,7,Spain,1993,The Netherlands
 80,7,Germany,1993,The Netherlands
 81,7,Slovenia,1993,The Netherlands
@@ -5439,7 +5439,7 @@
 88,3,Croatia,1993,The Netherlands
 89,3,Malta,1993,The Netherlands
 91,6,Spain,1993,Turkey
-92,2,Bosnia & Herzegovina,1993,Turkey
+92,2,Bosnia  Herzegovina,1993,Turkey
 93,1,Iceland,1993,Turkey
 94,1,Croatia,1993,Turkey
 96,12,Cyprus,1993,Greece
@@ -5474,7 +5474,7 @@
 127,2,Malta,1993,Finland
 129,4,Italy,1993,Slovenia
 130,3,Sweden,1993,Slovenia
-131,1,Bosnia & Herzegovina,1993,Slovenia
+131,1,Bosnia  Herzegovina,1993,Slovenia
 132,1,Malta,1993,Slovenia
 134,12,Turkey,1993,Bosnia Herzegovina
 135,4,France,1993,Bosnia Herzegovina
@@ -5527,9 +5527,9 @@
 185,5,Switzerland,1993,United Kingdom
 186,4,Cyprus,1993,United Kingdom
 187,4,The Netherlands,1993,United Kingdom
-188,3,Bosnia & Herzegovina,1993,United Kingdom
+188,3,Bosnia  Herzegovina,1993,United Kingdom
 189,1,Italy,1993,United Kingdom
-191,5,Bosnia & Herzegovina,1993,Denmark
+191,5,Bosnia  Herzegovina,1993,Denmark
 192,3,Luxembourg,1993,Denmark
 193,1,Sweden,1993,Denmark
 195,10,Portugal,1993,Italy
@@ -5540,7 +5540,7 @@
 200,2,The Netherlands,1993,Italy
 201,2,Spain,1993,Italy
 202,1,Switzerland,1993,Italy
-204,12,Bosnia & Herzegovina,1993,Austria
+204,12,Bosnia  Herzegovina,1993,Austria
 205,6,Ireland,1993,Austria
 206,4,Turkey,1993,Austria
 207,3,Belgium,1993,Austria
@@ -5558,7 +5558,7 @@
 221,10,Switzerland,1993,Norway
 222,8,Cyprus,1993,Norway
 223,8,Portugal,1993,Norway
-224,7,Bosnia & Herzegovina,1993,Norway
+224,7,Bosnia  Herzegovina,1993,Norway
 225,6,The Netherlands,1993,Norway
 226,6,Belgium,1993,Norway
 227,5,Ireland,1993,Norway
@@ -5570,7 +5570,7 @@
 234,5,Denmark,1993,Malta
 235,5,Greece,1993,Malta
 236,5,Turkey,1993,Malta
-237,4,Bosnia & Herzegovina,1993,Malta
+237,4,Bosnia  Herzegovina,1993,Malta
 238,4,Sweden,1993,Malta
 239,4,Austria,1993,Malta
 240,4,Spain,1993,Malta
@@ -5584,7 +5584,7 @@
 249,10,Finland,1993,Spain
 250,8,Malta,1993,Spain
 251,7,Croatia,1993,Spain
-252,6,Bosnia & Herzegovina,1993,Spain
+252,6,Bosnia  Herzegovina,1993,Spain
 253,6,Switzerland,1993,Spain
 254,5,Italy,1993,Spain
 255,5,Belgium,1993,Spain
@@ -5619,7 +5619,7 @@
 11,10,United Kingdom,1994,Ireland
 12,10,Austria,1994,Ireland
 13,10,Sweden,1994,Ireland
-14,10,Bosnia & Herzegovina,1994,Ireland
+14,10,Bosnia  Herzegovina,1994,Ireland
 15,10,Hungary,1994,Ireland
 16,8,France,1994,Ireland
 17,8,Cyprus,1994,Ireland
@@ -5648,7 +5648,7 @@
 42,8,Spain,1994,Germany
 43,7,Russia,1994,Germany
 44,7,United Kingdom,1994,Germany
-45,7,Bosnia & Herzegovina,1994,Germany
+45,7,Bosnia  Herzegovina,1994,Germany
 46,7,Slovakia,1994,Germany
 47,7,Iceland,1994,Germany
 48,7,Poland,1994,Germany
@@ -5662,7 +5662,7 @@
 56,2,Austria,1994,Germany
 57,1,Norway,1994,Germany
 59,7,Cyprus,1994,Austria
-60,5,Bosnia & Herzegovina,1994,Austria
+60,5,Bosnia  Herzegovina,1994,Austria
 61,3,United Kingdom,1994,Austria
 62,2,Croatia,1994,Austria
 63,1,Sweden,1994,Austria
@@ -5706,7 +5706,7 @@
 105,8,Estonia,1994,Norway
 106,7,Sweden,1994,Norway
 107,7,The Netherlands,1994,Norway
-108,6,Bosnia & Herzegovina,1994,Norway
+108,6,Bosnia  Herzegovina,1994,Norway
 109,5,Spain,1994,Norway
 110,5,Hungary,1994,Norway
 111,4,United Kingdom,1994,Norway
@@ -5736,7 +5736,7 @@
 139,8,Hungary,1994,Poland
 140,8,The Netherlands,1994,Poland
 141,8,Finland,1994,Poland
-142,8,Bosnia & Herzegovina,1994,Poland
+142,8,Bosnia  Herzegovina,1994,Poland
 143,8,Croatia,1994,Poland
 144,7,Portugal,1994,Poland
 145,7,Romania,1994,Poland
@@ -5775,7 +5775,7 @@
 180,5,Iceland,1994,France
 181,4,Cyprus,1994,France
 182,3,Sweden,1994,France
-183,2,Bosnia & Herzegovina,1994,France
+183,2,Bosnia  Herzegovina,1994,France
 184,2,Ireland,1994,France
 186,8,Portugal,1994,United Kingdom
 187,8,Switzerland,1994,United Kingdom
@@ -5784,7 +5784,7 @@
 190,5,Russia,1994,United Kingdom
 191,5,Cyprus,1994,United Kingdom
 192,4,Germany,1994,United Kingdom
-193,4,Bosnia & Herzegovina,1994,United Kingdom
+193,4,Bosnia  Herzegovina,1994,United Kingdom
 194,3,Spain,1994,United Kingdom
 195,3,Poland,1994,United Kingdom
 196,3,Slovakia,1994,United Kingdom
@@ -5798,7 +5798,7 @@
 205,2,Spain,1994,Switzerland
 207,4,Austria,1994,The Netherlands
 209,10,Greece,1994,Finland
-210,1,Bosnia & Herzegovina,1994,Finland
+210,1,Bosnia  Herzegovina,1994,Finland
 212,12,Slovakia,1994,Croatia
 213,10,Malta,1994,Croatia
 214,5,Greece,1994,Croatia
@@ -5816,11 +5816,11 @@
 227,4,Switzerland,1994,Hungary
 228,4,Estonia,1994,Hungary
 229,3,Russia,1994,Hungary
-230,3,Bosnia & Herzegovina,1994,Hungary
+230,3,Bosnia  Herzegovina,1994,Hungary
 231,2,Romania,1994,Hungary
 232,2,United Kingdom,1994,Hungary
 233,1,Portugal,1994,Hungary
-235,12,Bosnia & Herzegovina,1994,Malta
+235,12,Bosnia  Herzegovina,1994,Malta
 236,10,Ireland,1994,Malta
 237,10,Romania,1994,Malta
 238,10,Slovakia,1994,Malta
@@ -5879,7 +5879,7 @@
 22,8,Poland,1995,Spain
 23,8,United Kingdom,1995,Spain
 24,8,Turkey,1995,Spain
-25,8,Bosnia & Herzegovina,1995,Spain
+25,8,Bosnia  Herzegovina,1995,Spain
 26,8,Malta,1995,Spain
 27,7,Portugal,1995,Spain
 28,7,France,1995,Spain
@@ -5924,7 +5924,7 @@
 71,10,Slovenia,1995,Israel
 72,8,Russia,1995,Israel
 73,8,Cyprus,1995,Israel
-74,7,Bosnia & Herzegovina,1995,Israel
+74,7,Bosnia  Herzegovina,1995,Israel
 75,6,Austria,1995,Israel
 76,5,Hungary,1995,Israel
 77,5,Malta,1995,Israel
@@ -5939,7 +5939,7 @@
 88,8,Hungary,1995,Slovenia
 89,7,Russia,1995,Slovenia
 90,7,Sweden,1995,Slovenia
-91,6,Bosnia & Herzegovina,1995,Slovenia
+91,6,Bosnia  Herzegovina,1995,Slovenia
 92,5,Germany,1995,Slovenia
 93,5,Portugal,1995,Slovenia
 94,4,Poland,1995,Slovenia
@@ -5953,7 +5953,7 @@
 103,12,Malta,1995,Croatia
 104,12,Spain,1995,Croatia
 105,10,Iceland,1995,Croatia
-106,10,Bosnia & Herzegovina,1995,Croatia
+106,10,Bosnia  Herzegovina,1995,Croatia
 107,7,Norway,1995,Croatia
 108,7,Turkey,1995,Croatia
 109,5,Greece,1995,Croatia
@@ -5962,7 +5962,7 @@
 112,4,Israel,1995,Croatia
 113,3,Ireland,1995,Croatia
 115,12,Croatia,1995,Malta
-116,12,Bosnia & Herzegovina,1995,Malta
+116,12,Bosnia  Herzegovina,1995,Malta
 117,10,Turkey,1995,Malta
 118,10,Spain,1995,Malta
 119,7,United Kingdom,1995,Malta
@@ -5982,7 +5982,7 @@
 135,5,Russia,1995,Ireland
 136,5,Turkey,1995,Ireland
 137,5,Slovenia,1995,Ireland
-138,5,Bosnia & Herzegovina,1995,Ireland
+138,5,Bosnia  Herzegovina,1995,Ireland
 139,4,Greece,1995,Ireland
 140,3,Spain,1995,Ireland
 141,3,Iceland,1995,Ireland
@@ -5999,7 +5999,7 @@
 153,5,Israel,1995,United Kingdom
 154,5,Sweden,1995,United Kingdom
 155,5,Poland,1995,United Kingdom
-156,4,Bosnia & Herzegovina,1995,United Kingdom
+156,4,Bosnia  Herzegovina,1995,United Kingdom
 157,1,Ireland,1995,United Kingdom
 158,1,Russia,1995,United Kingdom
 160,12,Sweden,1995,Denmark
@@ -6012,7 +6012,7 @@
 167,6,Portugal,1995,Denmark
 168,6,Turkey,1995,Denmark
 169,6,Slovenia,1995,Denmark
-170,3,Bosnia & Herzegovina,1995,Denmark
+170,3,Bosnia  Herzegovina,1995,Denmark
 171,3,Hungary,1995,Denmark
 172,3,Poland,1995,Denmark
 173,3,Belgium,1995,Denmark
@@ -6030,7 +6030,7 @@
 187,4,Iceland,1995,Sweden
 188,3,France,1995,Sweden
 189,3,Malta,1995,Sweden
-190,2,Bosnia & Herzegovina,1995,Sweden
+190,2,Bosnia  Herzegovina,1995,Sweden
 191,1,Turkey,1995,Sweden
 192,1,Slovenia,1995,Sweden
 194,7,Malta,1995,Turkey
@@ -6084,7 +6084,7 @@
 248,4,Spain,1995,Norway
 249,4,United Kingdom,1995,Norway
 250,2,Denmark,1995,Norway
-251,1,Bosnia & Herzegovina,1995,Norway
+251,1,Bosnia  Herzegovina,1995,Norway
 0,7,Belgium,1996,France
 1,4,Norway,1996,France
 2,3,Estonia,1996,France
@@ -6093,7 +6093,7 @@
 5,1,Portugal,1996,France
 7,12,Turkey,1996,Ireland
 8,12,Slovenia,1996,Ireland
-9,12,Bosnia & Herzegovina,1996,Ireland
+9,12,Bosnia  Herzegovina,1996,Ireland
 10,12,Poland,1996,Ireland
 11,12,Estonia,1996,Ireland
 12,12,The Netherlands,1996,Ireland
@@ -6124,7 +6124,7 @@
 39,8,Poland,1996,Austria
 40,8,Ireland,1996,Austria
 41,7,Estonia,1996,Austria
-42,6,Bosnia & Herzegovina,1996,Austria
+42,6,Bosnia  Herzegovina,1996,Austria
 43,5,Portugal,1996,Austria
 44,4,Turkey,1996,Austria
 45,3,Slovakia,1996,Austria
@@ -6153,7 +6153,7 @@
 71,5,Slovenia,1996,The Netherlands
 72,4,Estonia,1996,The Netherlands
 73,3,Switzerland,1996,The Netherlands
-74,2,Bosnia & Herzegovina,1996,The Netherlands
+74,2,Bosnia  Herzegovina,1996,The Netherlands
 75,2,Iceland,1996,The Netherlands
 76,1,Turkey,1996,The Netherlands
 77,1,Belgium,1996,The Netherlands
@@ -6170,7 +6170,7 @@
 89,4,Sweden,1996,Portugal
 90,3,Finland,1996,Portugal
 91,2,United Kingdom,1996,Portugal
-92,1,Bosnia & Herzegovina,1996,Portugal
+92,1,Bosnia  Herzegovina,1996,Portugal
 93,1,Austria,1996,Portugal
 95,10,Slovenia,1996,Norway
 96,10,The Netherlands,1996,Norway
@@ -6186,13 +6186,13 @@
 106,5,Estonia,1996,Norway
 107,5,Croatia,1996,Norway
 108,4,Poland,1996,Norway
-109,3,Bosnia & Herzegovina,1996,Norway
+109,3,Bosnia  Herzegovina,1996,Norway
 110,3,Cyprus,1996,Norway
 111,2,Portugal,1996,Norway
 112,2,Turkey,1996,Norway
 114,7,Iceland,1996,Finland
 115,2,Norway,1996,Finland
-117,8,Bosnia & Herzegovina,1996,Slovenia
+117,8,Bosnia  Herzegovina,1996,Slovenia
 118,6,Croatia,1996,Slovenia
 119,1,Iceland,1996,Slovenia
 120,1,Spain,1996,Slovenia
@@ -6241,7 +6241,7 @@
 169,1,Norway,1996,Malta
 171,7,Turkey,1996,Poland
 172,7,Greece,1996,Poland
-173,7,Bosnia & Herzegovina,1996,Poland
+173,7,Bosnia  Herzegovina,1996,Poland
 174,4,Austria,1996,Poland
 175,4,Cyprus,1996,Poland
 176,2,Slovakia,1996,Poland
@@ -6250,12 +6250,12 @@
 180,7,The Netherlands,1996,Turkey
 181,6,Switzerland,1996,Turkey
 182,6,United Kingdom,1996,Turkey
-183,5,Bosnia & Herzegovina,1996,Turkey
+183,5,Bosnia  Herzegovina,1996,Turkey
 184,5,Finland,1996,Turkey
 185,5,Belgium,1996,Turkey
 186,4,France,1996,Turkey
 187,1,Croatia,1996,Turkey
-189,10,Bosnia & Herzegovina,1996,Croatia
+189,10,Bosnia  Herzegovina,1996,Croatia
 190,10,Portugal,1996,Croatia
 191,8,Cyprus,1996,Croatia
 192,8,Turkey,1996,Croatia
@@ -6299,7 +6299,7 @@
 232,6,Norway,1996,Sweden
 233,4,Slovakia,1996,Sweden
 234,4,Portugal,1996,Sweden
-235,4,Bosnia & Herzegovina,1996,Sweden
+235,4,Bosnia  Herzegovina,1996,Sweden
 236,3,France,1996,Sweden
 238,12,Belgium,1996,United Kingdom
 239,12,Portugal,1996,United Kingdom
@@ -6325,7 +6325,7 @@
 7,12,France,1997,United Kingdom
 8,12,Russia,1997,United Kingdom
 9,12,Denmark,1997,United Kingdom
-10,10,Bosnia & Herzegovina,1997,United Kingdom
+10,10,Bosnia  Herzegovina,1997,United Kingdom
 11,10,Estonia,1997,United Kingdom
 12,10,Greece,1997,United Kingdom
 13,10,Poland,1997,United Kingdom
@@ -6362,7 +6362,7 @@
 47,3,Slovenia,1997,Estonia
 48,2,Iceland,1997,Estonia
 49,1,Portugal,1997,Estonia
-50,1,Bosnia & Herzegovina,1997,Estonia
+50,1,Bosnia  Herzegovina,1997,Estonia
 51,1,Sweden,1997,Estonia
 52,1,Cyprus,1997,Estonia
 54,12,Portugal,1997,Italy
@@ -6374,7 +6374,7 @@
 60,7,Russia,1997,Italy
 61,7,The Netherlands,1997,Italy
 62,6,Cyprus,1997,Italy
-63,6,Bosnia & Herzegovina,1997,Italy
+63,6,Bosnia  Herzegovina,1997,Italy
 64,5,Turkey,1997,Italy
 65,5,Greece,1997,Italy
 66,4,Denmark,1997,Italy
@@ -6394,7 +6394,7 @@
 81,6,Portugal,1997,France
 82,5,The Netherlands,1997,France
 83,4,Greece,1997,France
-84,3,Bosnia & Herzegovina,1997,France
+84,3,Bosnia  Herzegovina,1997,France
 85,3,Cyprus,1997,France
 86,3,Switzerland,1997,France
 87,2,Sweden,1997,France
@@ -6410,7 +6410,7 @@
 98,10,Sweden,1997,Ireland
 99,10,Portugal,1997,Ireland
 100,8,Estonia,1997,Ireland
-101,8,Bosnia & Herzegovina,1997,Ireland
+101,8,Bosnia  Herzegovina,1997,Ireland
 102,8,Hungary,1997,Ireland
 103,8,Cyprus,1997,Ireland
 104,8,Germany,1997,Ireland
@@ -6479,7 +6479,7 @@
 174,1,Turkey,1997,The Netherlands
 176,12,Spain,1997,Turkey
 177,12,Germany,1997,Turkey
-178,12,Bosnia & Herzegovina,1997,Turkey
+178,12,Bosnia  Herzegovina,1997,Turkey
 179,10,Malta,1997,Turkey
 180,7,Austria,1997,Turkey
 181,7,Italy,1997,Turkey
@@ -6503,7 +6503,7 @@
 200,2,Russia,1997,Greece
 204,10,Turkey,1997,Slovenia
 205,10,Russia,1997,Slovenia
-206,7,Bosnia & Herzegovina,1997,Slovenia
+206,7,Bosnia  Herzegovina,1997,Slovenia
 207,7,France,1997,Slovenia
 208,5,Malta,1997,Slovenia
 209,4,Portugal,1997,Slovenia
@@ -6523,7 +6523,7 @@
 225,5,Sweden,1997,Croatia
 226,4,Cyprus,1997,Croatia
 227,3,Poland,1997,Croatia
-228,2,Bosnia & Herzegovina,1997,Croatia
+228,2,Bosnia  Herzegovina,1997,Croatia
 229,1,United Kingdom,1997,Croatia
 230,1,Germany,1997,Croatia
 232,8,United Kingdom,1997,Hungary
@@ -6542,7 +6542,7 @@
 246,7,Ireland,1997,Malta
 247,6,Italy,1997,Malta
 248,5,Cyprus,1997,Malta
-249,5,Bosnia & Herzegovina,1997,Malta
+249,5,Bosnia  Herzegovina,1997,Malta
 250,3,Denmark,1997,Malta
 251,1,Spain,1997,Malta
 252,1,France,1997,Malta
@@ -6551,7 +6551,7 @@
 256,7,Slovenia,1997,Poland
 257,6,Germany,1997,Poland
 258,5,Denmark,1997,Poland
-259,4,Bosnia & Herzegovina,1997,Poland
+259,4,Bosnia  Herzegovina,1997,Poland
 260,4,Norway,1997,Poland
 261,3,Estonia,1997,Poland
 262,3,France,1997,Poland
@@ -6830,7 +6830,7 @@
 13,3,Turkey,1999,Israel
 14,3,Belgium,1999,Israel
 15,2,Norway,1999,Israel
-16,2,Bosnia & Herzegovina,1999,Israel
+16,2,Bosnia  Herzegovina,1999,Israel
 17,2,Denmark,1999,Israel
 18,1,Slovenia,1999,Israel
 19,1,Iceland,1999,Israel
@@ -6839,7 +6839,7 @@
 23,12,Spain,1999,Croatia
 24,10,Germany,1999,Croatia
 25,8,Turkey,1999,Croatia
-26,8,Bosnia & Herzegovina,1999,Croatia
+26,8,Bosnia  Herzegovina,1999,Croatia
 27,8,Austria,1999,Croatia
 28,7,France,1999,Croatia
 29,7,Israel,1999,Croatia
@@ -6866,14 +6866,14 @@
 51,4,France,1999,Estonia
 52,4,Denmark,1999,Estonia
 53,4,Belgium,1999,Estonia
-54,3,Bosnia & Herzegovina,1999,Estonia
+54,3,Bosnia  Herzegovina,1999,Estonia
 55,3,United Kingdom,1999,Estonia
 56,3,Austria,1999,Estonia
 57,2,Iceland,1999,Estonia
 58,1,Spain,1999,Estonia
 59,1,Lithuania,1999,Estonia
 60,1,Israel,1999,Estonia
-62,7,Bosnia & Herzegovina,1999,Malta
+62,7,Bosnia  Herzegovina,1999,Malta
 63,7,Austria,1999,Malta
 64,6,Croatia,1999,Malta
 65,6,United Kingdom,1999,Malta
@@ -6895,7 +6895,7 @@
 84,6,Israel,1999,The Netherlands
 85,6,Iceland,1999,The Netherlands
 86,5,Turkey,1999,The Netherlands
-87,4,Bosnia & Herzegovina,1999,The Netherlands
+87,4,Bosnia  Herzegovina,1999,The Netherlands
 88,4,Lithuania,1999,The Netherlands
 89,4,Austria,1999,The Netherlands
 90,4,Sweden,1999,The Netherlands
@@ -6905,7 +6905,7 @@
 94,2,Portugal,1999,The Netherlands
 95,1,Ireland,1999,The Netherlands
 97,7,Lithuania,1999,Poland
-98,6,Bosnia & Herzegovina,1999,Poland
+98,6,Bosnia  Herzegovina,1999,Poland
 99,4,Germany,1999,Poland
 101,12,Denmark,1999,Iceland
 102,12,Sweden,1999,Iceland
@@ -6932,7 +6932,7 @@
 125,12,Israel,1999,Germany
 126,12,Portugal,1999,Germany
 127,10,Belgium,1999,Germany
-128,10,Bosnia & Herzegovina,1999,Germany
+128,10,Bosnia  Herzegovina,1999,Germany
 129,10,Austria,1999,Germany
 130,8,France,1999,Germany
 131,7,Spain,1999,Germany
@@ -6967,7 +6967,7 @@
 162,2,France,1999,Belgium
 164,12,United Kingdom,1999,Sweden
 165,12,Norway,1999,Sweden
-166,12,Bosnia & Herzegovina,1999,Sweden
+166,12,Bosnia  Herzegovina,1999,Sweden
 167,12,Estonia,1999,Sweden
 168,12,Malta,1999,Sweden
 169,10,Portugal,1999,Sweden
@@ -6994,7 +6994,7 @@
 193,12,Ireland,1999,Slovenia
 194,10,Lithuania,1999,Slovenia
 195,6,The Netherlands,1999,Slovenia
-196,5,Bosnia & Herzegovina,1999,Slovenia
+196,5,Bosnia  Herzegovina,1999,Slovenia
 197,2,Belgium,1999,Slovenia
 198,2,Spain,1999,Slovenia
 199,1,France,1999,Slovenia
@@ -7043,7 +7043,7 @@
 247,4,Cyprus,1999,United Kingdom
 248,4,Turkey,1999,United Kingdom
 249,2,Slovenia,1999,United Kingdom
-250,1,Bosnia & Herzegovina,1999,United Kingdom
+250,1,Bosnia  Herzegovina,1999,United Kingdom
 251,1,Denmark,1999,United Kingdom
 0,10,United Kingdom,2000,Ireland
 1,10,Malta,2000,Ireland
@@ -7286,7 +7286,7 @@
 261,4,Germany,2000,Russia
 262,2,Switzerland,2000,Russia
 0,12,Russia,2001,France
-1,12,Bosnia & Herzegovina,2001,France
+1,12,Bosnia  Herzegovina,2001,France
 2,12,Portugal,2001,France
 3,10,Poland,2001,France
 4,10,Estonia,2001,France
@@ -7317,7 +7317,7 @@
 32,6,Turkey,2001,Spain
 33,5,France,2001,Spain
 34,5,Sweden,2001,Spain
-35,5,Bosnia & Herzegovina,2001,Spain
+35,5,Bosnia  Herzegovina,2001,Spain
 36,4,Norway,2001,Spain
 37,4,Latvia,2001,Spain
 38,3,Estonia,2001,Spain
@@ -7370,7 +7370,7 @@
 89,5,Poland,2001,Sweden
 90,5,Spain,2001,Sweden
 91,4,Croatia,2001,Sweden
-92,3,Bosnia & Herzegovina,2001,Sweden
+92,3,Bosnia  Herzegovina,2001,Sweden
 93,2,Russia,2001,Sweden
 94,2,Norway,2001,Sweden
 95,2,Lithuania,2001,Sweden
@@ -7388,7 +7388,7 @@
 109,8,Poland,2001,Greece
 110,8,Germany,2001,Greece
 111,8,Norway,2001,Greece
-112,8,Bosnia & Herzegovina,2001,Greece
+112,8,Bosnia  Herzegovina,2001,Greece
 113,8,Iceland,2001,Greece
 114,8,Slovenia,2001,Greece
 115,7,Malta,2001,Greece
@@ -7407,7 +7407,7 @@
 129,12,France,2001,Portugal
 130,6,Spain,2001,Portugal
 132,3,Portugal,2001,Norway
-134,10,Bosnia & Herzegovina,2001,Slovenia
+134,10,Bosnia  Herzegovina,2001,Slovenia
 135,8,Croatia,2001,Slovenia
 136,7,Sweden,2001,Slovenia
 137,6,Poland,2001,Slovenia
@@ -7425,7 +7425,7 @@
 150,10,Turkey,2001,Croatia
 151,10,Malta,2001,Croatia
 152,7,Greece,2001,Croatia
-153,7,Bosnia & Herzegovina,2001,Croatia
+153,7,Bosnia  Herzegovina,2001,Croatia
 154,5,Slovenia,2001,Croatia
 155,3,Germany,2001,Croatia
 157,12,Lithuania,2001,Estonia
@@ -7447,7 +7447,7 @@
 173,8,France,2001,Estonia
 174,6,Russia,2001,Estonia
 175,6,Israel,2001,Estonia
-176,4,Bosnia & Herzegovina,2001,Estonia
+176,4,Bosnia  Herzegovina,2001,Estonia
 177,2,Croatia,2001,Estonia
 179,8,Estonia,2001,Latvia
 180,8,Lithuania,2001,Latvia
@@ -7457,7 +7457,7 @@
 185,4,Israel,2001,Lithuania
 186,4,United Kingdom,2001,Lithuania
 187,2,Slovenia,2001,Lithuania
-188,2,Bosnia & Herzegovina,2001,Lithuania
+188,2,Bosnia  Herzegovina,2001,Lithuania
 189,1,Ireland,2001,Lithuania
 190,1,Sweden,2001,Lithuania
 191,1,Iceland,2001,Lithuania
@@ -7472,7 +7472,7 @@
 201,2,Estonia,2001,Malta
 202,2,Turkey,2001,Malta
 203,1,Germany,2001,Malta
-204,1,Bosnia & Herzegovina,2001,Malta
+204,1,Bosnia  Herzegovina,2001,Malta
 205,1,Lithuania,2001,Malta
 206,1,United Kingdom,2001,Malta
 208,5,Germany,2001,Poland
@@ -7519,7 +7519,7 @@
 5,7,Sweden,2002,Spain
 6,6,Croatia,2002,Spain
 7,6,Israel,2002,Spain
-8,6,Bosnia & Herzegovina,2002,Spain
+8,6,Bosnia  Herzegovina,2002,Spain
 9,4,Greece,2002,Spain
 10,2,United Kingdom,2002,Spain
 12,12,Austria,2002,United Kingdom
@@ -7529,7 +7529,7 @@
 16,8,Lithuania,2002,United Kingdom
 17,8,Slovenia,2002,United Kingdom
 18,7,Greece,2002,United Kingdom
-19,7,Bosnia & Herzegovina,2002,United Kingdom
+19,7,Bosnia  Herzegovina,2002,United Kingdom
 20,6,Denmark,2002,United Kingdom
 21,6,Switzerland,2002,United Kingdom
 22,6,Estonia,2002,United Kingdom
@@ -7548,7 +7548,7 @@
 36,2,France,2002,Belgium
 37,2,Lithuania,2002,Belgium
 38,1,Spain,2002,Belgium
-40,12,Bosnia & Herzegovina,2002,Sweden
+40,12,Bosnia  Herzegovina,2002,Sweden
 41,10,Denmark,2002,Sweden
 42,10,Lithuania,2002,Sweden
 43,8,Estonia,2002,Sweden
@@ -7568,7 +7568,7 @@
 59,10,Sweden,2002,Finland
 60,5,Estonia,2002,Finland
 61,3,Denmark,2002,Finland
-62,3,Bosnia & Herzegovina,2002,Finland
+62,3,Bosnia  Herzegovina,2002,Finland
 63,2,Cyprus,2002,Finland
 64,1,North Macedonia,2002,Finland
 66,8,Croatia,2002,Slovenia
@@ -7578,7 +7578,7 @@
 70,2,North Macedonia,2002,Slovenia
 71,2,Austria,2002,Slovenia
 72,2,Switzerland,2002,Slovenia
-73,1,Bosnia & Herzegovina,2002,Slovenia
+73,1,Bosnia  Herzegovina,2002,Slovenia
 75,12,Slovenia,2002,Croatia
 76,6,Cyprus,2002,Croatia
 77,6,Austria,2002,Croatia
@@ -7586,11 +7586,11 @@
 79,5,Switzerland,2002,Croatia
 80,5,Greece,2002,Croatia
 81,3,Germany,2002,Croatia
-82,2,Bosnia & Herzegovina,2002,Croatia
+82,2,Bosnia  Herzegovina,2002,Croatia
 84,12,Latvia,2002,Estonia
 85,12,Sweden,2002,Estonia
 86,10,Finland,2002,Estonia
-87,10,Bosnia & Herzegovina,2002,Estonia
+87,10,Bosnia  Herzegovina,2002,Estonia
 88,8,Denmark,2002,Estonia
 89,8,Turkey,2002,Estonia
 90,7,United Kingdom,2002,Estonia
@@ -7622,7 +7622,7 @@
 117,7,Denmark,2002,Latvia
 118,6,Finland,2002,Latvia
 119,6,Turkey,2002,Latvia
-120,5,Bosnia & Herzegovina,2002,Latvia
+120,5,Bosnia  Herzegovina,2002,Latvia
 121,5,Sweden,2002,Latvia
 122,5,Slovenia,2002,Latvia
 123,4,Cyprus,2002,Latvia
@@ -7649,7 +7649,7 @@
 146,5,Turkey,2002,Malta
 147,4,Switzerland,2002,Malta
 148,4,Sweden,2002,Malta
-149,4,Bosnia & Herzegovina,2002,Malta
+149,4,Bosnia  Herzegovina,2002,Malta
 150,3,Lithuania,2002,Malta
 151,2,Finland,2002,Malta
 153,12,North Macedonia,2002,Romania
@@ -7675,7 +7675,7 @@
 175,10,Switzerland,2002,France
 176,10,United Kingdom,2002,France
 177,10,Belgium,2002,France
-178,8,Bosnia & Herzegovina,2002,France
+178,8,Bosnia  Herzegovina,2002,France
 179,8,Sweden,2002,France
 180,8,Spain,2002,France
 181,7,Israel,2002,France
@@ -7756,11 +7756,11 @@
 2,7,Austria,2003,Bosnia Herzegovina
 4,8,Slovenia,2003,Croatia
 5,6,Ireland,2003,Croatia
-6,6,Bosnia & Herzegovina,2003,Croatia
+6,6,Bosnia  Herzegovina,2003,Croatia
 7,5,Austria,2003,Croatia
 8,3,Turkey,2003,Croatia
 9,1,Greece,2003,Croatia
-11,8,Bosnia & Herzegovina,2003,France
+11,8,Bosnia  Herzegovina,2003,France
 12,6,Romania,2003,France
 13,3,Poland,2003,France
 14,2,Portugal,2003,France
@@ -7816,7 +7816,7 @@
 69,6,Turkey,2003,Austria
 70,6,Sweden,2003,Austria
 71,6,Estonia,2003,Austria
-72,5,Bosnia & Herzegovina,2003,Austria
+72,5,Bosnia  Herzegovina,2003,Austria
 73,5,Croatia,2003,Austria
 74,4,Cyprus,2003,Austria
 75,4,Latvia,2003,Austria
@@ -7829,7 +7829,7 @@
 83,10,Ukraine,2003,Belgium
 84,10,Ireland,2003,Belgium
 85,10,The Netherlands,2003,Belgium
-86,10,Bosnia & Herzegovina,2003,Belgium
+86,10,Bosnia  Herzegovina,2003,Belgium
 87,10,Latvia,2003,Belgium
 88,8,Israel,2003,Belgium
 89,8,Estonia,2003,Belgium
@@ -7854,7 +7854,7 @@
 110,5,Ireland,2003,The Netherlands
 111,5,Sweden,2003,The Netherlands
 112,5,Norway,2003,The Netherlands
-113,2,Bosnia & Herzegovina,2003,The Netherlands
+113,2,Bosnia  Herzegovina,2003,The Netherlands
 114,2,Israel,2003,The Netherlands
 115,1,United Kingdom,2003,The Netherlands
 117,8,France,2003,Israel
@@ -7884,7 +7884,7 @@
 143,3,France,2003,Norway
 144,3,Romania,2003,Norway
 145,2,Austria,2003,Norway
-147,4,Bosnia & Herzegovina,2003,Slovenia
+147,4,Bosnia  Herzegovina,2003,Slovenia
 148,3,Croatia,2003,Slovenia
 150,8,Ireland,2003,Estonia
 151,3,United Kingdom,2003,Estonia
@@ -7911,7 +7911,7 @@
 176,12,Russia,2003,Romania
 177,10,Spain,2003,Romania
 178,8,Poland,2003,Romania
-179,7,Bosnia & Herzegovina,2003,Romania
+179,7,Bosnia  Herzegovina,2003,Romania
 180,6,Ukraine,2003,Romania
 181,6,Austria,2003,Romania
 182,6,Israel,2003,Romania
@@ -7947,9 +7947,9 @@
 214,3,The Netherlands,2003,Sweden
 215,2,Croatia,2003,Sweden
 216,2,France,2003,Sweden
-217,1,Bosnia & Herzegovina,2003,Sweden
+217,1,Bosnia  Herzegovina,2003,Sweden
 218,1,Cyprus,2003,Sweden
-220,12,Bosnia & Herzegovina,2003,Turkey
+220,12,Bosnia  Herzegovina,2003,Turkey
 221,12,Austria,2003,Turkey
 222,12,Belgium,2003,Turkey
 223,12,The Netherlands,2003,Turkey
@@ -7994,7 +7994,7 @@
 264,4,Poland,2003,Russia
 265,4,Portugal,2003,Russia
 266,4,Iceland,2003,Russia
-267,3,Bosnia & Herzegovina,2003,Russia
+267,3,Bosnia  Herzegovina,2003,Russia
 268,2,Norway,2003,Russia
 269,2,Sweden,2003,Russia
 270,1,The Netherlands,2003,Russia
@@ -8034,7 +8034,7 @@
 22,4,Ireland,2004,Germany
 23,4,United Kingdom,2004,Germany
 24,4,Romania,2004,Germany
-25,3,Bosnia & Herzegovina,2004,Germany
+25,3,Bosnia  Herzegovina,2004,Germany
 26,3,The Netherlands,2004,Germany
 27,3,Slovenia,2004,Germany
 28,2,Albania,2004,Germany
@@ -8042,12 +8042,12 @@
 30,1,Lithuania,2004,Germany
 31,1,Croatia,2004,Germany
 32,1,Norway,2004,Germany
-34,12,Serbia & Montenegro,2004,Switzerland
+34,12,Serbia  Montenegro,2004,Switzerland
 35,10,Germany,2004,Switzerland
 36,8,Turkey,2004,Switzerland
 37,7,Albania,2004,Switzerland
 38,6,Spain,2004,Switzerland
-39,5,Bosnia & Herzegovina,2004,Switzerland
+39,5,Bosnia  Herzegovina,2004,Switzerland
 40,4,Greece,2004,Switzerland
 41,3,Croatia,2004,Switzerland
 42,2,Cyprus,2004,Switzerland
@@ -8082,7 +8082,7 @@
 72,3,Portugal,2004,Cyprus
 73,3,Romania,2004,Cyprus
 74,3,Spain,2004,Cyprus
-75,3,Serbia & Montenegro,2004,Cyprus
+75,3,Serbia  Montenegro,2004,Cyprus
 76,2,Switzerland,2004,Cyprus
 77,2,Monaco,2004,Cyprus
 78,1,Slovenia,2004,Cyprus
@@ -8103,7 +8103,7 @@
 95,8,Russia,2004,Turkey
 96,8,Monaco,2004,Turkey
 97,8,Albania,2004,Turkey
-98,7,Bosnia & Herzegovina,2004,Turkey
+98,7,Bosnia  Herzegovina,2004,Turkey
 99,6,United Kingdom,2004,Turkey
 100,6,Ukraine,2004,Turkey
 101,6,North Macedonia,2004,Turkey
@@ -8116,7 +8116,7 @@
 108,3,Belarus,2004,Turkey
 109,3,Andorra,2004,Turkey
 110,3,Croatia,2004,Turkey
-111,2,Serbia & Montenegro,2004,Turkey
+111,2,Serbia  Montenegro,2004,Turkey
 112,2,Latvia,2004,Turkey
 113,2,Israel,2004,Turkey
 114,2,Spain,2004,Turkey
@@ -8124,7 +8124,7 @@
 117,12,Ukraine,2004,Israel
 118,10,Greece,2004,Israel
 119,8,Spain,2004,Israel
-120,7,Serbia & Montenegro,2004,Israel
+120,7,Serbia  Montenegro,2004,Israel
 121,6,Russia,2004,Israel
 122,5,Sweden,2004,Israel
 123,4,Malta,2004,Israel
@@ -8150,7 +8150,7 @@
 143,7,Poland,2004,Greece
 144,7,Germany,2004,Greece
 145,7,Croatia,2004,Greece
-146,7,Serbia & Montenegro,2004,Greece
+146,7,Serbia  Montenegro,2004,Greece
 147,6,Finland,2004,Greece
 148,6,Iceland,2004,Greece
 149,6,The Netherlands,2004,Greece
@@ -8158,7 +8158,7 @@
 151,6,France,2004,Greece
 152,6,Slovenia,2004,Greece
 153,6,Belarus,2004,Greece
-154,5,Bosnia & Herzegovina,2004,Greece
+154,5,Bosnia  Herzegovina,2004,Greece
 155,5,Ireland,2004,Greece
 156,5,Estonia,2004,Greece
 157,4,Switzerland,2004,Greece
@@ -8169,15 +8169,15 @@
 163,12,Spain,2004,Portugal
 164,10,Ukraine,2004,Portugal
 165,8,Germany,2004,Portugal
-166,7,Serbia & Montenegro,2004,Portugal
+166,7,Serbia  Montenegro,2004,Portugal
 167,6,Greece,2004,Portugal
 168,5,Sweden,2004,Portugal
 169,4,Romania,2004,Portugal
 170,3,Cyprus,2004,Portugal
 171,2,France,2004,Portugal
 172,1,Malta,2004,Portugal
-173,12,Serbia & Montenegro,2004,Fyr Macedonia
-174,8,Bosnia & Herzegovina,2004,Fyr Macedonia
+173,12,Serbia  Montenegro,2004,Fyr Macedonia
+174,8,Bosnia  Herzegovina,2004,Fyr Macedonia
 175,7,Slovenia,2004,Fyr Macedonia
 176,6,Albania,2004,Fyr Macedonia
 177,5,Croatia,2004,Fyr Macedonia
@@ -8196,7 +8196,7 @@
 191,3,Poland,2004,Malta
 192,2,Croatia,2004,Malta
 193,2,United Kingdom,2004,Malta
-194,1,Bosnia & Herzegovina,2004,Malta
+194,1,Bosnia  Herzegovina,2004,Malta
 195,1,Denmark,2004,Malta
 196,1,Ukraine,2004,Malta
 197,1,Portugal,2004,Malta
@@ -8219,10 +8219,10 @@
 217,7,Germany,2004,Monaco
 218,6,Ukraine,2004,Monaco
 219,5,Iceland,2004,Monaco
-220,4,Bosnia & Herzegovina,2004,Monaco
+220,4,Bosnia  Herzegovina,2004,Monaco
 221,3,Spain,2004,Monaco
 222,2,Cyprus,2004,Monaco
-223,1,Serbia & Montenegro,2004,Monaco
+223,1,Serbia  Montenegro,2004,Monaco
 224,12,Spain,2004,Andorra
 225,10,Ukraine,2004,Andorra
 226,8,Greece,2004,Andorra
@@ -8231,12 +8231,12 @@
 229,5,Sweden,2004,Andorra
 230,4,Cyprus,2004,Andorra
 231,3,Turkey,2004,Andorra
-232,2,Serbia & Montenegro,2004,Andorra
+232,2,Serbia  Montenegro,2004,Andorra
 233,1,Belgium,2004,Andorra
 234,12,Russia,2004,Belarus
 235,10,Ukraine,2004,Belarus
 236,8,Cyprus,2004,Belarus
-237,7,Serbia & Montenegro,2004,Belarus
+237,7,Serbia  Montenegro,2004,Belarus
 238,6,Greece,2004,Belarus
 239,5,Croatia,2004,Belarus
 240,4,Sweden,2004,Belarus
@@ -8261,14 +8261,14 @@
 259,5,Israel,2004,Sweden
 260,5,Malta,2004,Sweden
 261,4,Belarus,2004,Sweden
-262,4,Serbia & Montenegro,2004,Sweden
+262,4,Serbia  Montenegro,2004,Sweden
 263,4,Albania,2004,Sweden
 264,3,France,2004,Sweden
 265,3,Germany,2004,Sweden
 266,3,Turkey,2004,Sweden
 267,3,Russia,2004,Sweden
 268,2,Ukraine,2004,Sweden
-269,2,Bosnia & Herzegovina,2004,Sweden
+269,2,Bosnia  Herzegovina,2004,Sweden
 270,2,Slovenia,2004,Sweden
 271,2,Belgium,2004,Sweden
 272,2,North Macedonia,2004,Sweden
@@ -8300,11 +8300,11 @@
 300,6,Israel,2004,Russia
 301,4,Finland,2004,Russia
 302,2,Greece,2004,Russia
-303,1,Serbia & Montenegro,2004,Russia
+303,1,Serbia  Montenegro,2004,Russia
 305,12,North Macedonia,2004,Albania
 306,10,Malta,2004,Albania
 307,10,Greece,2004,Albania
-308,8,Serbia & Montenegro,2004,Albania
+308,8,Serbia  Montenegro,2004,Albania
 309,7,Switzerland,2004,Albania
 310,7,Sweden,2004,Albania
 311,6,Turkey,2004,Albania
@@ -8313,7 +8313,7 @@
 314,5,Austria,2004,Albania
 315,4,Slovenia,2004,Albania
 316,4,Denmark,2004,Albania
-317,4,Bosnia & Herzegovina,2004,Albania
+317,4,Bosnia  Herzegovina,2004,Albania
 318,4,Iceland,2004,Albania
 319,3,Finland,2004,Albania
 320,3,Norway,2004,Albania
@@ -8337,8 +8337,8 @@
 340,1,Russia,2004,United Kingdom
 342,12,Sweden,2004,Denmark
 343,10,Turkey,2004,Denmark
-344,8,Bosnia & Herzegovina,2004,Denmark
-345,7,Serbia & Montenegro,2004,Denmark
+344,8,Bosnia  Herzegovina,2004,Denmark
+345,7,Serbia  Montenegro,2004,Denmark
 346,6,Cyprus,2004,Denmark
 347,5,Ukraine,2004,Denmark
 348,4,Albania,2004,Denmark
@@ -8349,7 +8349,7 @@
 353,4,France,2004,Austria
 355,3,Sweden,2004,Norway
 357,12,Sweden,2004,Finland
-358,10,Serbia & Montenegro,2004,Finland
+358,10,Serbia  Montenegro,2004,Finland
 359,8,Ukraine,2004,Finland
 360,7,Cyprus,2004,Finland
 361,6,Greece,2004,Finland
@@ -8358,8 +8358,8 @@
 364,3,Albania,2004,Finland
 365,2,Iceland,2004,Finland
 366,1,Croatia,2004,Finland
-367,12,Serbia & Montenegro,2004,Slovenia
-368,10,Bosnia & Herzegovina,2004,Slovenia
+367,12,Serbia  Montenegro,2004,Slovenia
+368,10,Bosnia  Herzegovina,2004,Slovenia
 369,8,Ukraine,2004,Slovenia
 370,7,North Macedonia,2004,Slovenia
 371,6,Greece,2004,Slovenia
@@ -8368,9 +8368,9 @@
 374,3,Germany,2004,Slovenia
 375,2,Sweden,2004,Slovenia
 376,1,Cyprus,2004,Slovenia
-377,10,Bosnia & Herzegovina,2004,Croatia
+377,10,Bosnia  Herzegovina,2004,Croatia
 378,7,Ukraine,2004,Croatia
-379,5,Serbia & Montenegro,2004,Croatia
+379,5,Serbia  Montenegro,2004,Croatia
 380,5,Slovenia,2004,Croatia
 381,5,North Macedonia,2004,Croatia
 382,5,Russia,2004,Croatia
@@ -8388,13 +8388,13 @@
 395,4,United Kingdom,2004,Estonia
 396,3,The Netherlands,2004,Estonia
 397,2,Germany,2004,Estonia
-398,1,Serbia & Montenegro,2004,Estonia
+398,1,Serbia  Montenegro,2004,Estonia
 399,12,Ukraine,2004,Latvia
 400,10,Russia,2004,Latvia
 401,8,Sweden,2004,Latvia
 402,7,Greece,2004,Latvia
 403,6,Malta,2004,Latvia
-404,5,Serbia & Montenegro,2004,Latvia
+404,5,Serbia  Montenegro,2004,Latvia
 405,4,Cyprus,2004,Latvia
 406,3,United Kingdom,2004,Latvia
 407,2,Turkey,2004,Latvia
@@ -8407,7 +8407,7 @@
 414,5,Cyprus,2004,Lithuania
 415,4,Malta,2004,Lithuania
 416,3,Turkey,2004,Lithuania
-417,2,Serbia & Montenegro,2004,Lithuania
+417,2,Serbia  Montenegro,2004,Lithuania
 418,1,Germany,2004,Lithuania
 419,12,Turkey,2004,Ukraine
 420,12,Estonia,2004,Ukraine
@@ -8418,7 +8418,7 @@
 425,12,Israel,2004,Ukraine
 426,12,Russia,2004,Ukraine
 427,10,Portugal,2004,Ukraine
-428,10,Serbia & Montenegro,2004,Ukraine
+428,10,Serbia  Montenegro,2004,Ukraine
 429,10,Belarus,2004,Ukraine
 430,10,Andorra,2004,Ukraine
 431,10,Sweden,2004,Ukraine
@@ -8433,7 +8433,7 @@
 440,7,Greece,2004,Ukraine
 441,7,Norway,2004,Ukraine
 442,7,The Netherlands,2004,Ukraine
-443,6,Bosnia & Herzegovina,2004,Ukraine
+443,6,Bosnia  Herzegovina,2004,Ukraine
 444,6,Romania,2004,Ukraine
 445,6,Germany,2004,Ukraine
 446,6,Monaco,2004,Ukraine
@@ -8449,7 +8449,7 @@
 457,12,Croatia,2004,Serbia Montenegro
 458,12,Slovenia,2004,Serbia Montenegro
 459,12,Sweden,2004,Serbia Montenegro
-460,12,Bosnia & Herzegovina,2004,Serbia Montenegro
+460,12,Bosnia  Herzegovina,2004,Serbia Montenegro
 461,10,Russia,2004,Serbia Montenegro
 462,10,Finland,2004,Serbia Montenegro
 463,10,France,2004,Serbia Montenegro
@@ -8509,8 +8509,8 @@
 29,12,North Macedonia,2005,Albania
 30,10,Greece,2005,Albania
 31,10,Switzerland,2005,Albania
-32,8,Serbia & Montenegro,2005,Albania
-33,5,Bosnia & Herzegovina,2005,Albania
+32,8,Serbia  Montenegro,2005,Albania
+33,5,Bosnia  Herzegovina,2005,Albania
 34,3,Austria,2005,Albania
 35,2,Turkey,2005,Albania
 36,2,Croatia,2005,Albania
@@ -8534,7 +8534,7 @@
 55,4,Norway,2005,Ireland
 56,3,Switzerland,2005,Ireland
 57,2,Greece,2005,Ireland
-58,1,Bosnia & Herzegovina,2005,Ireland
+58,1,Bosnia  Herzegovina,2005,Ireland
 59,8,Ireland,2005,United Kingdom
 60,5,Cyprus,2005,United Kingdom
 61,4,Malta,2005,United Kingdom
@@ -8560,8 +8560,8 @@
 82,3,Israel,2005,Denmark
 83,2,Finland,2005,Denmark
 84,1,Portugal,2005,Denmark
-86,12,Serbia & Montenegro,2005,Austria
-87,10,Bosnia & Herzegovina,2005,Austria
+86,12,Serbia  Montenegro,2005,Austria
+87,10,Bosnia  Herzegovina,2005,Austria
 88,8,Croatia,2005,Austria
 89,7,Turkey,2005,Austria
 90,6,Romania,2005,Austria
@@ -8598,9 +8598,9 @@
 122,10,Greece,2005,The Netherlands
 123,8,Denmark,2005,The Netherlands
 124,7,Israel,2005,The Netherlands
-125,6,Bosnia & Herzegovina,2005,The Netherlands
+125,6,Bosnia  Herzegovina,2005,The Netherlands
 126,5,Malta,2005,The Netherlands
-127,4,Serbia & Montenegro,2005,The Netherlands
+127,4,Serbia  Montenegro,2005,The Netherlands
 128,3,Romania,2005,The Netherlands
 129,2,Croatia,2005,The Netherlands
 130,1,Norway,2005,The Netherlands
@@ -8615,7 +8615,7 @@
 140,12,The Netherlands,2005,Turkey
 141,10,Belgium,2005,Turkey
 142,10,Germany,2005,Turkey
-143,8,Bosnia & Herzegovina,2005,Turkey
+143,8,Bosnia  Herzegovina,2005,Turkey
 144,8,Albania,2005,Turkey
 145,8,Denmark,2005,Turkey
 146,7,Austria,2005,Turkey
@@ -8640,18 +8640,18 @@
 166,4,Slovenia,2005,Norway
 167,4,Belarus,2005,Norway
 168,3,Moldova,2005,Norway
-169,3,Bosnia & Herzegovina,2005,Norway
+169,3,Bosnia  Herzegovina,2005,Norway
 170,3,Cyprus,2005,Norway
 171,3,Belgium,2005,Norway
 172,3,Spain,2005,Norway
 173,2,Andorra,2005,Norway
-174,2,Serbia & Montenegro,2005,Norway
+174,2,Serbia  Montenegro,2005,Norway
 175,1,The Netherlands,2005,Norway
 176,1,Bulgaria,2005,Norway
 177,1,Israel,2005,Norway
 179,12,Croatia,2005,Slovenia
-180,10,Serbia & Montenegro,2005,Slovenia
-181,8,Bosnia & Herzegovina,2005,Slovenia
+180,10,Serbia  Montenegro,2005,Slovenia
+181,8,Bosnia  Herzegovina,2005,Slovenia
 182,7,Latvia,2005,Slovenia
 183,6,Switzerland,2005,Slovenia
 184,5,North Macedonia,2005,Slovenia
@@ -8659,9 +8659,9 @@
 186,3,Moldova,2005,Slovenia
 187,2,Greece,2005,Slovenia
 188,1,Malta,2005,Slovenia
-189,12,Bosnia & Herzegovina,2005,Croatia
+189,12,Bosnia  Herzegovina,2005,Croatia
 190,12,Slovenia,2005,Croatia
-191,10,Serbia & Montenegro,2005,Croatia
+191,10,Serbia  Montenegro,2005,Croatia
 192,8,North Macedonia,2005,Croatia
 193,8,Austria,2005,Croatia
 194,8,Switzerland,2005,Croatia
@@ -8684,8 +8684,8 @@
 212,10,Albania,2005,Fyr Macedonia
 213,8,Croatia,2005,Fyr Macedonia
 214,7,Bulgaria,2005,Fyr Macedonia
-215,7,Bosnia & Herzegovina,2005,Fyr Macedonia
-216,7,Serbia & Montenegro,2005,Fyr Macedonia
+215,7,Bosnia  Herzegovina,2005,Fyr Macedonia
+216,7,Serbia  Montenegro,2005,Fyr Macedonia
 217,5,Turkey,2005,Fyr Macedonia
 218,5,Slovenia,2005,Fyr Macedonia
 219,2,Switzerland,2005,Fyr Macedonia
@@ -8696,7 +8696,7 @@
 225,10,North Macedonia,2005,Serbia Montenegro
 226,10,Cyprus,2005,Serbia Montenegro
 227,10,Slovenia,2005,Serbia Montenegro
-228,10,Bosnia & Herzegovina,2005,Serbia Montenegro
+228,10,Bosnia  Herzegovina,2005,Serbia Montenegro
 229,6,France,2005,Serbia Montenegro
 230,6,Greece,2005,Serbia Montenegro
 231,6,Romania,2005,Serbia Montenegro
@@ -8779,7 +8779,7 @@
 311,6,Latvia,2005,Belarus
 312,5,Malta,2005,Belarus
 313,4,Norway,2005,Belarus
-314,3,Serbia & Montenegro,2005,Belarus
+314,3,Serbia  Montenegro,2005,Belarus
 315,2,Hungary,2005,Belarus
 316,1,Romania,2005,Belarus
 317,12,Romania,2005,Moldova
@@ -8794,12 +8794,12 @@
 326,7,Belarus,2005,Moldova
 327,6,Bulgaria,2005,Moldova
 328,6,Estonia,2005,Moldova
-329,5,Serbia & Montenegro,2005,Moldova
+329,5,Serbia  Montenegro,2005,Moldova
 330,5,North Macedonia,2005,Moldova
 331,4,Israel,2005,Moldova
 332,4,Hungary,2005,Moldova
 333,4,Spain,2005,Moldova
-334,4,Bosnia & Herzegovina,2005,Moldova
+334,4,Bosnia  Herzegovina,2005,Moldova
 335,3,Poland,2005,Moldova
 336,3,Slovenia,2005,Moldova
 337,2,France,2005,Moldova
@@ -8845,7 +8845,7 @@
 381,7,Albania,2005,Cyprus
 382,3,United Kingdom,2005,Cyprus
 383,1,Romania,2005,Cyprus
-384,1,Serbia & Montenegro,2005,Cyprus
+384,1,Serbia  Montenegro,2005,Cyprus
 386,12,Romania,2005,Portugal
 387,10,Moldova,2005,Portugal
 388,8,Spain,2005,Portugal
@@ -8864,7 +8864,7 @@
 401,7,Sweden,2005,Bosnia Herzegovina
 402,6,The Netherlands,2005,Bosnia Herzegovina
 403,5,Switzerland,2005,Bosnia Herzegovina
-404,4,Serbia & Montenegro,2005,Bosnia Herzegovina
+404,4,Serbia  Montenegro,2005,Bosnia Herzegovina
 405,4,United Kingdom,2005,Bosnia Herzegovina
 406,4,Denmark,2005,Bosnia Herzegovina
 407,3,North Macedonia,2005,Bosnia Herzegovina
@@ -8877,7 +8877,7 @@
 415,6,Turkey,2005,Hungary
 416,6,Andorra,2005,Hungary
 417,6,Iceland,2005,Hungary
-418,6,Serbia & Montenegro,2005,Hungary
+418,6,Serbia  Montenegro,2005,Hungary
 419,5,Bulgaria,2005,Hungary
 420,5,Spain,2005,Hungary
 421,3,Estonia,2005,Hungary
@@ -8889,7 +8889,7 @@
 427,2,Ukraine,2005,Hungary
 428,2,Belarus,2005,Hungary
 429,2,Greece,2005,Hungary
-430,1,Bosnia & Herzegovina,2005,Hungary
+430,1,Bosnia  Herzegovina,2005,Hungary
 431,1,North Macedonia,2005,Hungary
 433,12,Russia,2005,Malta
 434,10,Ireland,2005,Malta
@@ -8953,8 +8953,8 @@
 493,4,Turkey,2005,Romania
 494,3,The Netherlands,2005,Romania
 495,3,Denmark,2005,Romania
-496,3,Serbia & Montenegro,2005,Romania
-497,2,Bosnia & Herzegovina,2005,Romania
+496,3,Serbia  Montenegro,2005,Romania
+497,2,Bosnia  Herzegovina,2005,Romania
 498,2,North Macedonia,2005,Romania
 499,2,Sweden,2005,Romania
 500,1,Belarus,2005,Romania
@@ -8971,7 +8971,7 @@
 513,7,North Macedonia,2005,Bulgaria
 514,6,Moldova,2005,Bulgaria
 515,5,Hungary,2005,Bulgaria
-516,4,Serbia & Montenegro,2005,Bulgaria
+516,4,Serbia  Montenegro,2005,Bulgaria
 517,3,Turkey,2005,Bulgaria
 518,2,Croatia,2005,Bulgaria
 519,1,Norway,2005,Bulgaria
@@ -8979,7 +8979,7 @@
 521,10,Denmark,2005,Monaco
 522,8,Switzerland,2005,Monaco
 523,7,Croatia,2005,Monaco
-524,6,Serbia & Montenegro,2005,Monaco
+524,6,Serbia  Montenegro,2005,Monaco
 525,5,Malta,2005,Monaco
 526,4,Romania,2005,Monaco
 527,3,Sweden,2005,Monaco
@@ -8990,7 +8990,7 @@
 532,12,Hungary,2005,Greece
 533,12,Albania,2005,Greece
 534,12,United Kingdom,2005,Greece
-535,12,Serbia & Montenegro,2005,Greece
+535,12,Serbia  Montenegro,2005,Greece
 536,12,Germany,2005,Greece
 537,12,Turkey,2005,Greece
 538,12,Sweden,2005,Greece
@@ -9002,7 +9002,7 @@
 544,7,Switzerland,2005,Greece
 545,7,Israel,2005,Greece
 546,7,North Macedonia,2005,Greece
-547,6,Bosnia & Herzegovina,2005,Greece
+547,6,Bosnia  Herzegovina,2005,Greece
 548,6,Malta,2005,Greece
 549,5,Croatia,2005,Greece
 550,4,Moldova,2005,Greece
@@ -9031,14 +9031,14 @@
 11,12,Malta,2006,Switzerland
 12,6,Monaco,2006,Switzerland
 13,4,Israel,2006,Switzerland
-14,4,Bosnia & Herzegovina,2006,Switzerland
+14,4,Bosnia  Herzegovina,2006,Switzerland
 15,3,Cyprus,2006,Switzerland
 16,1,Portugal,2006,Switzerland
 18,12,The Netherlands,2006,Turkey
 19,12,France,2006,Turkey
 20,12,Germany,2006,Turkey
 21,10,Switzerland,2006,Turkey
-22,10,Bosnia & Herzegovina,2006,Turkey
+22,10,Bosnia  Herzegovina,2006,Turkey
 23,7,Belgium,2006,Turkey
 24,7,Albania,2006,Turkey
 25,6,Romania,2006,Turkey
@@ -9047,7 +9047,7 @@
 28,3,Greece,2006,Turkey
 29,3,United Kingdom,2006,Turkey
 30,1,Israel,2006,Turkey
-32,12,Bosnia & Herzegovina,2006,Slovenia
+32,12,Bosnia  Herzegovina,2006,Slovenia
 33,10,Croatia,2006,Slovenia
 34,8,Finland,2006,Slovenia
 35,7,Sweden,2006,Slovenia
@@ -9062,7 +9062,7 @@
 44,12,North Macedonia,2006,Bosnia Herzegovina
 45,12,Albania,2006,Bosnia Herzegovina
 46,12,Slovenia,2006,Bosnia Herzegovina
-47,12,Serbia & Montenegro,2006,Bosnia Herzegovina
+47,12,Serbia  Montenegro,2006,Bosnia Herzegovina
 48,12,Switzerland,2006,Bosnia Herzegovina
 49,12,Monaco,2006,Bosnia Herzegovina
 50,10,Finland,2006,Bosnia Herzegovina
@@ -9089,8 +9089,8 @@
 71,2,Israel,2006,Bosnia Herzegovina
 72,2,Cyprus,2006,Bosnia Herzegovina
 73,1,Spain,2006,Bosnia Herzegovina
-75,8,Bosnia & Herzegovina,2006,Fyr Macedonia
-76,8,Serbia & Montenegro,2006,Fyr Macedonia
+75,8,Bosnia  Herzegovina,2006,Fyr Macedonia
+76,8,Serbia  Montenegro,2006,Fyr Macedonia
 77,8,Croatia,2006,Fyr Macedonia
 78,7,Armenia,2006,Fyr Macedonia
 79,6,Slovenia,2006,Fyr Macedonia
@@ -9098,7 +9098,7 @@
 81,6,Bulgaria,2006,Fyr Macedonia
 82,4,Switzerland,2006,Fyr Macedonia
 83,3,Albania,2006,Fyr Macedonia
-85,12,Bosnia & Herzegovina,2006,Monaco
+85,12,Bosnia  Herzegovina,2006,Monaco
 86,10,Ireland,2006,Monaco
 87,8,Latvia,2006,Monaco
 88,7,Lithuania,2006,Monaco
@@ -9108,7 +9108,7 @@
 92,3,France,2006,Monaco
 93,2,Ukraine,2006,Monaco
 94,1,Norway,2006,Monaco
-95,12,Bosnia & Herzegovina,2006,Serbia Montenegro
+95,12,Bosnia  Herzegovina,2006,Serbia Montenegro
 96,10,Croatia,2006,Serbia Montenegro
 97,8,North Macedonia,2006,Serbia Montenegro
 98,7,Finland,2006,Serbia Montenegro
@@ -9151,7 +9151,7 @@
 138,10,Greece,2006,Belgium
 139,8,Finland,2006,Belgium
 140,7,Turkey,2006,Belgium
-141,6,Bosnia & Herzegovina,2006,Belgium
+141,6,Bosnia  Herzegovina,2006,Belgium
 142,5,Sweden,2006,Belgium
 143,4,Lithuania,2006,Belgium
 144,3,Russia,2006,Belgium
@@ -9165,11 +9165,11 @@
 152,5,Finland,2006,Cyprus
 153,4,Lithuania,2006,Cyprus
 154,3,Switzerland,2006,Cyprus
-155,2,Bosnia & Herzegovina,2006,Cyprus
+155,2,Bosnia  Herzegovina,2006,Cyprus
 156,1,United Kingdom,2006,Cyprus
 157,12,Turkey,2006,The Netherlands
 158,10,Armenia,2006,The Netherlands
-159,8,Bosnia & Herzegovina,2006,The Netherlands
+159,8,Bosnia  Herzegovina,2006,The Netherlands
 160,7,Finland,2006,The Netherlands
 161,6,Lithuania,2006,The Netherlands
 162,5,Greece,2006,The Netherlands
@@ -9200,13 +9200,13 @@
 187,5,Belgium,2006,Sweden
 188,5,Romania,2006,Sweden
 189,4,United Kingdom,2006,Sweden
-190,3,Bosnia & Herzegovina,2006,Sweden
+190,3,Bosnia  Herzegovina,2006,Sweden
 191,3,France,2006,Sweden
 192,3,Croatia,2006,Sweden
 193,2,Russia,2006,Sweden
 194,2,Moldova,2006,Sweden
 195,2,Switzerland,2006,Sweden
-196,1,Serbia & Montenegro,2006,Sweden
+196,1,Serbia  Montenegro,2006,Sweden
 197,1,North Macedonia,2006,Sweden
 199,12,Greece,2006,Finland
 200,12,United Kingdom,2006,Finland
@@ -9229,12 +9229,12 @@
 217,8,Latvia,2006,Finland
 218,8,Russia,2006,Finland
 219,7,Ukraine,2006,Finland
-220,7,Serbia & Montenegro,2006,Finland
+220,7,Serbia  Montenegro,2006,Finland
 221,7,Belarus,2006,Finland
 222,7,Turkey,2006,Finland
 223,7,Malta,2006,Finland
 224,7,The Netherlands,2006,Finland
-225,7,Bosnia & Herzegovina,2006,Finland
+225,7,Bosnia  Herzegovina,2006,Finland
 226,7,Israel,2006,Finland
 227,6,Portugal,2006,Finland
 228,6,North Macedonia,2006,Finland
@@ -9264,7 +9264,7 @@
 253,4,Cyprus,2006,Lithuania
 254,4,Greece,2006,Lithuania
 255,4,Portugal,2006,Lithuania
-256,3,Serbia & Montenegro,2006,Lithuania
+256,3,Serbia  Montenegro,2006,Lithuania
 257,3,North Macedonia,2006,Lithuania
 258,3,Slovenia,2006,Lithuania
 259,3,Israel,2006,Lithuania
@@ -9291,7 +9291,7 @@
 282,5,Croatia,2006,Romania
 283,4,Russia,2006,Romania
 284,4,Norway,2006,Romania
-285,4,Serbia & Montenegro,2006,Romania
+285,4,Serbia  Montenegro,2006,Romania
 286,4,Armenia,2006,Romania
 287,4,Estonia,2006,Romania
 288,3,Poland,2006,Romania
@@ -9301,14 +9301,14 @@
 292,2,Bulgaria,2006,Romania
 293,2,North Macedonia,2006,Romania
 294,2,Belgium,2006,Romania
-295,2,Bosnia & Herzegovina,2006,Romania
+295,2,Bosnia  Herzegovina,2006,Romania
 296,2,Latvia,2006,Romania
 297,2,Albania,2006,Romania
 298,2,Iceland,2006,Romania
 299,1,Ukraine,2006,Romania
 300,1,Switzerland,2006,Romania
 301,1,Lithuania,2006,Romania
-303,12,Bosnia & Herzegovina,2006,Albania
+303,12,Bosnia  Herzegovina,2006,Albania
 304,10,Sweden,2006,Albania
 305,8,Greece,2006,Albania
 306,7,Turkey,2006,Albania
@@ -9334,14 +9334,14 @@
 326,7,Finland,2006,Belarus
 327,6,Lithuania,2006,Belarus
 328,5,Sweden,2006,Belarus
-329,4,Bosnia & Herzegovina,2006,Belarus
+329,4,Bosnia  Herzegovina,2006,Belarus
 330,3,Romania,2006,Belarus
 331,2,Greece,2006,Belarus
 332,1,Norway,2006,Belarus
 333,12,Greece,2006,Bulgaria
 334,10,Russia,2006,Bulgaria
 335,8,Armenia,2006,Bulgaria
-336,7,Bosnia & Herzegovina,2006,Bulgaria
+336,7,Bosnia  Herzegovina,2006,Bulgaria
 337,6,North Macedonia,2006,Bulgaria
 338,5,Finland,2006,Bulgaria
 339,4,Turkey,2006,Bulgaria
@@ -9394,8 +9394,8 @@
 389,1,Belarus,2006,Norway
 390,1,Denmark,2006,Norway
 391,1,Armenia,2006,Norway
-393,12,Bosnia & Herzegovina,2006,Croatia
-394,10,Serbia & Montenegro,2006,Croatia
+393,12,Bosnia  Herzegovina,2006,Croatia
+394,10,Serbia  Montenegro,2006,Croatia
 395,10,Slovenia,2006,Croatia
 396,10,North Macedonia,2006,Croatia
 397,6,Switzerland,2006,Croatia
@@ -9425,7 +9425,7 @@
 423,7,Sweden,2006,Poland
 424,6,Ukraine,2006,Poland
 425,5,Armenia,2006,Poland
-426,4,Bosnia & Herzegovina,2006,Poland
+426,4,Bosnia  Herzegovina,2006,Poland
 427,3,Romania,2006,Poland
 428,2,Ireland,2006,Poland
 429,1,United Kingdom,2006,Poland
@@ -9436,7 +9436,7 @@
 434,6,Ukraine,2006,Iceland
 435,5,Russia,2006,Iceland
 436,4,Norway,2006,Iceland
-437,3,Bosnia & Herzegovina,2006,Iceland
+437,3,Bosnia  Herzegovina,2006,Iceland
 438,2,Romania,2006,Iceland
 439,1,Ireland,2006,Iceland
 440,12,Andorra,2006,Spain
@@ -9452,7 +9452,7 @@
 452,8,Armenia,2006,Greece
 453,7,North Macedonia,2006,Greece
 454,7,United Kingdom,2006,Greece
-455,6,Serbia & Montenegro,2006,Greece
+455,6,Serbia  Montenegro,2006,Greece
 456,5,The Netherlands,2006,Greece
 457,5,France,2006,Greece
 458,5,Switzerland,2006,Greece
@@ -9462,7 +9462,7 @@
 462,2,Belarus,2006,Greece
 463,1,Andorra,2006,Greece
 464,1,Finland,2006,Greece
-465,1,Bosnia & Herzegovina,2006,Greece
+465,1,Bosnia  Herzegovina,2006,Greece
 466,1,Moldova,2006,Greece
 468,12,Ukraine,2006,Portugal
 469,10,Romania,2006,Portugal
@@ -9472,7 +9472,7 @@
 473,5,Ireland,2006,Portugal
 474,4,Lithuania,2006,Portugal
 475,3,Moldova,2006,Portugal
-476,2,Bosnia & Herzegovina,2006,Portugal
+476,2,Bosnia  Herzegovina,2006,Portugal
 477,1,Switzerland,2006,Portugal
 478,12,Belarus,2006,Russia
 479,12,Israel,2006,Russia
@@ -9494,10 +9494,10 @@
 495,7,Portugal,2006,Russia
 496,7,Sweden,2006,Russia
 497,6,Andorra,2006,Russia
-498,6,Bosnia & Herzegovina,2006,Russia
+498,6,Bosnia  Herzegovina,2006,Russia
 499,6,Germany,2006,Russia
 500,5,Ireland,2006,Russia
-501,5,Serbia & Montenegro,2006,Russia
+501,5,Serbia  Montenegro,2006,Russia
 502,5,Turkey,2006,Russia
 503,5,Malta,2006,Russia
 504,5,Iceland,2006,Russia
@@ -9522,7 +9522,7 @@
 524,6,Iceland,2006,Ukraine
 525,5,Estonia,2006,Ukraine
 526,5,Greece,2006,Ukraine
-527,5,Bosnia & Herzegovina,2006,Ukraine
+527,5,Bosnia  Herzegovina,2006,Ukraine
 528,5,North Macedonia,2006,Ukraine
 529,5,Latvia,2006,Ukraine
 530,5,Andorra,2006,Ukraine
@@ -9533,7 +9533,7 @@
 535,2,Finland,2006,Ukraine
 536,2,Monaco,2006,Ukraine
 537,2,Malta,2006,Ukraine
-538,2,Serbia & Montenegro,2006,Ukraine
+538,2,Serbia  Montenegro,2006,Ukraine
 539,2,Slovenia,2006,Ukraine
 540,1,Ireland,2006,Ukraine
 541,1,Sweden,2006,Ukraine
@@ -9554,7 +9554,7 @@
 13,10,France,2008,Turkey
 14,10,Belgium,2008,Turkey
 15,10,The Netherlands,2008,Turkey
-16,8,Bosnia & Herzegovina,2008,Turkey
+16,8,Bosnia  Herzegovina,2008,Turkey
 17,8,United Kingdom,2008,Turkey
 18,8,Romania,2008,Turkey
 19,7,North Macedonia,2008,Turkey
@@ -9579,7 +9579,7 @@
 39,6,Moldova,2008,Israel
 40,6,Armenia,2008,Israel
 41,5,Poland,2008,Israel
-42,5,Bosnia & Herzegovina,2008,Israel
+42,5,Bosnia  Herzegovina,2008,Israel
 43,5,Ukraine,2008,Israel
 44,5,Belgium,2008,Israel
 45,5,Montenegro,2008,Israel
@@ -9609,7 +9609,7 @@
 70,8,Andorra,2008,Greece
 71,8,Armenia,2008,Greece
 72,8,Serbia,2008,Greece
-73,7,Bosnia & Herzegovina,2008,Greece
+73,7,Bosnia  Herzegovina,2008,Greece
 74,7,Turkey,2008,Greece
 75,6,Montenegro,2008,Greece
 76,6,Azerbaijan,2008,Greece
@@ -9722,7 +9722,7 @@
 186,5,Norway,2008,Russia
 187,5,Turkey,2008,Russia
 188,5,Ireland,2008,Russia
-189,4,Bosnia & Herzegovina,2008,Russia
+189,4,Bosnia  Herzegovina,2008,Russia
 190,3,Belgium,2008,Russia
 191,1,France,2008,Russia
 192,1,The Netherlands,2008,Russia
@@ -9778,7 +9778,7 @@
 244,4,Montenegro,2008,Ukraine
 245,4,North Macedonia,2008,Ukraine
 246,3,Finland,2008,Ukraine
-247,3,Bosnia & Herzegovina,2008,Ukraine
+247,3,Bosnia  Herzegovina,2008,Ukraine
 248,3,Romania,2008,Ukraine
 249,2,Slovenia,2008,Ukraine
 250,1,Belgium,2008,Ukraine
@@ -9811,7 +9811,7 @@
 278,4,Georgia,2008,Czech Republic
 279,3,Latvia,2008,Czech Republic
 280,2,Denmark,2008,Czech Republic
-281,1,Bosnia & Herzegovina,2008,Czech Republic
+281,1,Bosnia  Herzegovina,2008,Czech Republic
 282,12,Russia,2008,Armenia
 283,12,Poland,2008,Armenia
 284,12,Czech Republic,2008,Armenia
@@ -9829,7 +9829,7 @@
 296,7,Belarus,2008,Armenia
 297,7,Ukraine,2008,Armenia
 298,6,Germany,2008,Armenia
-299,6,Bosnia & Herzegovina,2008,Armenia
+299,6,Bosnia  Herzegovina,2008,Armenia
 300,5,Slovenia,2008,Armenia
 301,5,Serbia,2008,Armenia
 302,4,Romania,2008,Armenia
@@ -9871,7 +9871,7 @@
 343,12,Serbia,2008,Switzerland
 344,10,Portugal,2008,Switzerland
 345,8,Albania,2008,Switzerland
-346,7,Bosnia & Herzegovina,2008,Switzerland
+346,7,Bosnia  Herzegovina,2008,Switzerland
 347,6,Turkey,2008,Switzerland
 348,5,Greece,2008,Switzerland
 349,4,Spain,2008,Switzerland
@@ -9891,7 +9891,7 @@
 363,12,Armenia,2008,The Netherlands
 364,10,Turkey,2008,The Netherlands
 365,8,Serbia,2008,The Netherlands
-366,7,Bosnia & Herzegovina,2008,The Netherlands
+366,7,Bosnia  Herzegovina,2008,The Netherlands
 367,6,Greece,2008,The Netherlands
 368,5,Portugal,2008,The Netherlands
 369,4,Norway,2008,The Netherlands
@@ -9924,7 +9924,7 @@
 396,4,Lithuania,2008,Norway
 397,4,Serbia,2008,Norway
 398,3,Malta,2008,Norway
-399,2,Bosnia & Herzegovina,2008,Norway
+399,2,Bosnia  Herzegovina,2008,Norway
 400,2,Turkey,2008,Norway
 401,2,Portugal,2008,Norway
 402,2,Greece,2008,Norway
@@ -9961,7 +9961,7 @@
 436,8,Azerbaijan,2008,Fyr Macedonia
 437,7,Turkey,2008,Fyr Macedonia
 438,6,Russia,2008,Fyr Macedonia
-439,5,Bosnia & Herzegovina,2008,Fyr Macedonia
+439,5,Bosnia  Herzegovina,2008,Fyr Macedonia
 440,4,Ukraine,2008,Fyr Macedonia
 441,3,Greece,2008,Fyr Macedonia
 442,2,Croatia,2008,Fyr Macedonia
@@ -9991,7 +9991,7 @@
 467,7,Montenegro,2008,Albania
 468,4,Slovenia,2008,Albania
 469,3,San Marino,2008,Albania
-470,1,Bosnia & Herzegovina,2008,Albania
+470,1,Bosnia  Herzegovina,2008,Albania
 471,1,Turkey,2008,Albania
 472,1,Azerbaijan,2008,Albania
 474,12,Germany,2008,Bulgaria
@@ -10056,7 +10056,7 @@
 536,12,Slovenia,2008,Serbia
 537,12,Montenegro,2008,Serbia
 538,12,Switzerland,2008,Serbia
-539,12,Bosnia & Herzegovina,2008,Serbia
+539,12,Bosnia  Herzegovina,2008,Serbia
 540,10,North Macedonia,2008,Serbia
 541,10,Croatia,2008,Serbia
 542,8,The Netherlands,2008,Serbia
@@ -10080,7 +10080,7 @@
 560,1,Malta,2008,Serbia
 561,1,Moldova,2008,Serbia
 563,12,Serbia,2008,Slovenia
-564,10,Bosnia & Herzegovina,2008,Slovenia
+564,10,Bosnia  Herzegovina,2008,Slovenia
 565,8,Croatia,2008,Slovenia
 566,7,Russia,2008,Slovenia
 567,6,Greece,2008,Slovenia
@@ -10089,7 +10089,7 @@
 570,3,Israel,2008,Slovenia
 571,2,Ukraine,2008,Slovenia
 572,1,Azerbaijan,2008,Slovenia
-573,10,Bosnia & Herzegovina,2008,Croatia
+573,10,Bosnia  Herzegovina,2008,Croatia
 574,8,Slovenia,2008,Croatia
 575,5,Latvia,2008,Croatia
 576,3,Serbia,2008,Croatia
@@ -10104,7 +10104,7 @@
 585,1,Russia,2008,Croatia
 586,1,Ukraine,2008,Croatia
 588,12,Serbia,2008,Montenegro
-589,10,Bosnia & Herzegovina,2008,Montenegro
+589,10,Bosnia  Herzegovina,2008,Montenegro
 590,8,Russia,2008,Montenegro
 591,7,Albania,2008,Montenegro
 592,6,Greece,2008,Montenegro
@@ -10121,7 +10121,7 @@
 603,5,Russia,2008,Ireland
 604,4,Greece,2008,Ireland
 605,3,Romania,2008,Ireland
-606,2,Bosnia & Herzegovina,2008,Ireland
+606,2,Bosnia  Herzegovina,2008,Ireland
 607,1,Denmark,2008,Ireland
 608,12,Malta,2008,Sweden
 609,8,Denmark,2008,Sweden
@@ -10214,7 +10214,7 @@
 65,6,Ukraine,2009,United Kingdom
 66,4,France,2009,United Kingdom
 67,4,Israel,2009,United Kingdom
-68,4,Bosnia & Herzegovina,2009,United Kingdom
+68,4,Bosnia  Herzegovina,2009,United Kingdom
 69,4,Croatia,2009,United Kingdom
 70,4,Poland,2009,United Kingdom
 71,4,Andorra,2009,United Kingdom
@@ -10249,7 +10249,7 @@
 102,3,France,2009,Germany
 103,3,Albania,2009,Germany
 104,2,The Netherlands,2009,Germany
-105,2,Bosnia & Herzegovina,2009,Germany
+105,2,Bosnia  Herzegovina,2009,Germany
 106,2,Belgium,2009,Germany
 107,1,Turkey,2009,Germany
 108,1,Portugal,2009,Germany
@@ -10260,7 +10260,7 @@
 114,7,France,2009,Switzerland
 115,6,Albania,2009,Switzerland
 116,5,Iceland,2009,Switzerland
-117,4,Bosnia & Herzegovina,2009,Switzerland
+117,4,Bosnia  Herzegovina,2009,Switzerland
 118,3,Spain,2009,Switzerland
 119,2,Greece,2009,Switzerland
 120,1,Israel,2009,Switzerland
@@ -10280,13 +10280,13 @@
 134,7,Iceland,2009,The Netherlands
 135,6,France,2009,The Netherlands
 136,5,Armenia,2009,The Netherlands
-137,4,Bosnia & Herzegovina,2009,The Netherlands
+137,4,Bosnia  Herzegovina,2009,The Netherlands
 138,3,United Kingdom,2009,The Netherlands
 139,2,Germany,2009,The Netherlands
 140,1,Greece,2009,The Netherlands
 141,10,France,2009,Israel
 142,8,Belgium,2009,Israel
-143,8,Bosnia & Herzegovina,2009,Israel
+143,8,Bosnia  Herzegovina,2009,Israel
 144,7,Andorra,2009,Israel
 145,5,Slovakia,2009,Israel
 146,5,Estonia,2009,Israel
@@ -10306,7 +10306,7 @@
 161,5,Belarus,2009,Greece
 162,5,United Kingdom,2009,Greece
 163,5,Belgium,2009,Greece
-164,5,Bosnia & Herzegovina,2009,Greece
+164,5,Bosnia  Herzegovina,2009,Greece
 165,4,Hungary,2009,Greece
 166,4,Russia,2009,Greece
 167,4,Slovenia,2009,Greece
@@ -10338,7 +10338,7 @@
 194,10,Belgium,2009,Norway
 195,10,Cyprus,2009,Norway
 196,10,Serbia,2009,Norway
-197,10,Bosnia & Herzegovina,2009,Norway
+197,10,Bosnia  Herzegovina,2009,Norway
 198,10,Montenegro,2009,Norway
 199,8,Azerbaijan,2009,Norway
 200,8,Ireland,2009,Norway
@@ -10362,7 +10362,7 @@
 219,3,Malta,2009,Finland
 220,3,Bulgaria,2009,Finland
 222,12,Norway,2009,Slovenia
-223,10,Bosnia & Herzegovina,2009,Slovenia
+223,10,Bosnia  Herzegovina,2009,Slovenia
 224,8,Denmark,2009,Slovenia
 225,7,France,2009,Slovenia
 226,6,Croatia,2009,Slovenia
@@ -10484,7 +10484,7 @@
 347,1,Belarus,2009,Armenia
 348,1,Finland,2009,Armenia
 349,1,North Macedonia,2009,Armenia
-351,12,Bosnia & Herzegovina,2009,Serbia
+351,12,Bosnia  Herzegovina,2009,Serbia
 352,10,Norway,2009,Serbia
 353,8,United Kingdom,2009,Serbia
 354,7,Malta,2009,Serbia
@@ -10494,7 +10494,7 @@
 358,3,France,2009,Serbia
 359,2,Romania,2009,Serbia
 360,1,Denmark,2009,Serbia
-361,12,Bosnia & Herzegovina,2009,Montenegro
+361,12,Bosnia  Herzegovina,2009,Montenegro
 362,10,Norway,2009,Montenegro
 363,8,Croatia,2009,Montenegro
 364,7,Albania,2009,Montenegro
@@ -10513,7 +10513,7 @@
 377,6,The Netherlands,2009,France
 378,6,Greece,2009,France
 379,6,Lithuania,2009,France
-380,6,Bosnia & Herzegovina,2009,France
+380,6,Bosnia  Herzegovina,2009,France
 381,5,Israel,2009,France
 382,5,Latvia,2009,France
 383,4,Finland,2009,France
@@ -10540,7 +10540,7 @@
 405,10,Albania,2009,Turkey
 406,8,The Netherlands,2009,Turkey
 407,7,Norway,2009,Turkey
-408,7,Bosnia & Herzegovina,2009,Turkey
+408,7,Bosnia  Herzegovina,2009,Turkey
 409,6,Sweden,2009,Turkey
 410,6,Romania,2009,Turkey
 411,6,Denmark,2009,Turkey
@@ -10564,7 +10564,7 @@
 430,6,Belgium,2009,Portugal
 431,3,Estonia,2009,Portugal
 432,2,Slovakia,2009,Portugal
-433,1,Bosnia & Herzegovina,2009,Portugal
+433,1,Bosnia  Herzegovina,2009,Portugal
 435,12,Greece,2009,Cyprus
 436,10,Norway,2009,Cyprus
 437,8,Azerbaijan,2009,Cyprus
@@ -10575,7 +10575,7 @@
 442,3,Estonia,2009,Cyprus
 443,2,Romania,2009,Cyprus
 444,1,Russia,2009,Cyprus
-445,12,Bosnia & Herzegovina,2009,Croatia
+445,12,Bosnia  Herzegovina,2009,Croatia
 446,8,Montenegro,2009,Croatia
 447,6,Slovenia,2009,Croatia
 448,5,Azerbaijan,2009,Croatia
@@ -10585,7 +10585,7 @@
 452,2,Greece,2009,Croatia
 453,1,Iceland,2009,Croatia
 455,12,Turkey,2009,Fyr Macedonia
-456,10,Bosnia & Herzegovina,2009,Fyr Macedonia
+456,10,Bosnia  Herzegovina,2009,Fyr Macedonia
 457,8,Norway,2009,Fyr Macedonia
 458,7,Albania,2009,Fyr Macedonia
 459,6,United Kingdom,2009,Fyr Macedonia
@@ -10625,7 +10625,7 @@
 494,1,Iceland,2009,Poland
 495,12,Estonia,2009,Slovakia
 496,10,Norway,2009,Slovakia
-497,8,Bosnia & Herzegovina,2009,Slovakia
+497,8,Bosnia  Herzegovina,2009,Slovakia
 498,7,United Kingdom,2009,Slovakia
 499,6,Iceland,2009,Slovakia
 500,5,Israel,2009,Slovakia
@@ -10639,7 +10639,7 @@
 508,7,United Kingdom,2009,Bulgaria
 509,6,Armenia,2009,Bulgaria
 510,5,Iceland,2009,Bulgaria
-511,4,Bosnia & Herzegovina,2009,Bulgaria
+511,4,Bosnia  Herzegovina,2009,Bulgaria
 512,3,Finland,2009,Bulgaria
 513,2,Norway,2009,Bulgaria
 514,1,Lithuania,2009,Bulgaria
@@ -10711,7 +10711,7 @@
 582,4,Slovakia,2009,Azerbaijan
 583,4,Albania,2009,Azerbaijan
 584,4,Serbia,2009,Azerbaijan
-585,3,Bosnia & Herzegovina,2009,Azerbaijan
+585,3,Bosnia  Herzegovina,2009,Azerbaijan
 586,3,Belgium,2009,Azerbaijan
 587,3,United Kingdom,2009,Azerbaijan
 588,3,North Macedonia,2009,Azerbaijan
@@ -10750,7 +10750,7 @@
 9,3,Israel,2010,France
 10,3,Germany,2010,France
 11,3,Slovenia,2010,France
-12,3,Bosnia & Herzegovina,2010,France
+12,3,Bosnia  Herzegovina,2010,France
 13,3,Croatia,2010,France
 14,3,Cyprus,2010,France
 15,2,Spain,2010,France
@@ -10789,7 +10789,7 @@
 50,10,Turkey,2010,Germany
 51,8,Serbia,2010,Germany
 52,8,Ireland,2010,Germany
-53,8,Bosnia & Herzegovina,2010,Germany
+53,8,Bosnia  Herzegovina,2010,Germany
 54,8,North Macedonia,2010,Germany
 55,7,Poland,2010,Germany
 56,6,Russia,2010,Germany
@@ -10858,7 +10858,7 @@
 122,12,Azerbaijan,2010,Turkey
 123,12,France,2010,Turkey
 124,12,Croatia,2010,Turkey
-125,10,Bosnia & Herzegovina,2010,Turkey
+125,10,Bosnia  Herzegovina,2010,Turkey
 126,10,United Kingdom,2010,Turkey
 127,10,Germany,2010,Turkey
 128,10,North Macedonia,2010,Turkey
@@ -10893,7 +10893,7 @@
 158,3,United Kingdom,2010,Israel
 159,3,Ukraine,2010,Israel
 160,2,Cyprus,2010,Israel
-161,1,Bosnia & Herzegovina,2010,Israel
+161,1,Bosnia  Herzegovina,2010,Israel
 162,1,France,2010,Israel
 163,1,Moldova,2010,Israel
 165,12,Belgium,2010,Greece
@@ -10907,7 +10907,7 @@
 173,7,Finland,2010,Greece
 174,7,Malta,2010,Greece
 175,7,Romania,2010,Greece
-176,6,Bosnia & Herzegovina,2010,Greece
+176,6,Bosnia  Herzegovina,2010,Greece
 177,5,Slovakia,2010,Greece
 178,5,Bulgaria,2010,Greece
 179,5,Spain,2010,Greece
@@ -10921,7 +10921,7 @@
 188,10,Turkey,2010,Fyr Macedonia
 189,8,Germany,2010,Fyr Macedonia
 190,7,Serbia,2010,Fyr Macedonia
-191,6,Bosnia & Herzegovina,2010,Fyr Macedonia
+191,6,Bosnia  Herzegovina,2010,Fyr Macedonia
 192,5,Georgia,2010,Fyr Macedonia
 193,4,Armenia,2010,Fyr Macedonia
 194,3,Azerbaijan,2010,Fyr Macedonia
@@ -10969,7 +10969,7 @@
 236,4,Switzerland,2010,Romania
 237,3,Russia,2010,Romania
 238,3,Latvia,2010,Romania
-239,2,Bosnia & Herzegovina,2010,Romania
+239,2,Bosnia  Herzegovina,2010,Romania
 240,2,Turkey,2010,Romania
 241,2,Ukraine,2010,Romania
 242,2,Lithuania,2010,Romania
@@ -11044,13 +11044,13 @@
 316,5,Moldova,2010,Georgia
 317,4,Poland,2010,Georgia
 318,4,Belgium,2010,Georgia
-319,4,Bosnia & Herzegovina,2010,Georgia
+319,4,Bosnia  Herzegovina,2010,Georgia
 320,2,Iceland,2010,Georgia
 321,1,Switzerland,2010,Georgia
 322,1,Spain,2010,Georgia
 323,1,Slovenia,2010,Georgia
 324,1,Norway,2010,Georgia
-326,12,Bosnia & Herzegovina,2010,Serbia
+326,12,Bosnia  Herzegovina,2010,Serbia
 327,10,France,2010,Serbia
 328,10,Switzerland,2010,Serbia
 329,8,Croatia,2010,Serbia
@@ -11090,7 +11090,7 @@
 366,7,Romania,2010,Slovenia
 367,6,Israel,2010,Slovenia
 368,5,Spain,2010,Slovenia
-369,4,Bosnia & Herzegovina,2010,Slovenia
+369,4,Bosnia  Herzegovina,2010,Slovenia
 370,3,France,2010,Slovenia
 371,2,Turkey,2010,Slovenia
 372,1,Georgia,2010,Slovenia
@@ -11109,7 +11109,7 @@
 386,8,Georgia,2010,Azerbaijan
 387,8,Poland,2010,Azerbaijan
 388,8,Russia,2010,Azerbaijan
-389,7,Bosnia & Herzegovina,2010,Azerbaijan
+389,7,Bosnia  Herzegovina,2010,Azerbaijan
 390,7,Spain,2010,Azerbaijan
 391,7,Israel,2010,Azerbaijan
 392,7,Norway,2010,Azerbaijan
@@ -11129,7 +11129,7 @@
 407,7,Iceland,2010,Albania
 408,7,Turkey,2010,Albania
 409,5,Croatia,2010,Albania
-410,5,Bosnia & Herzegovina,2010,Albania
+410,5,Bosnia  Herzegovina,2010,Albania
 411,3,Belgium,2010,Albania
 412,2,Poland,2010,Albania
 413,1,Romania,2010,Albania
@@ -11239,7 +11239,7 @@
 522,1,Sweden,2010,Armenia
 523,1,Latvia,2010,Armenia
 525,12,Turkey,2010,Croatia
-526,10,Bosnia & Herzegovina,2010,Croatia
+526,10,Bosnia  Herzegovina,2010,Croatia
 527,8,Serbia,2010,Croatia
 528,7,Georgia,2010,Croatia
 529,6,Germany,2010,Croatia
@@ -11265,7 +11265,7 @@
 4,6,Croatia,2011,France
 5,5,Armenia,2011,France
 6,5,Ukraine,2011,France
-7,4,Bosnia & Herzegovina,2011,France
+7,4,Bosnia  Herzegovina,2011,France
 8,4,Finland,2011,France
 9,3,San Marino,2011,France
 10,3,Russia,2011,France
@@ -11314,7 +11314,7 @@
 56,3,United Kingdom,2011,Portugal
 57,2,France,2011,Portugal
 58,1,Slovenia,2011,Portugal
-59,12,Bosnia & Herzegovina,2011,Slovenia
+59,12,Bosnia  Herzegovina,2011,Slovenia
 60,12,Croatia,2011,Slovenia
 61,10,North Macedonia,2011,Slovenia
 62,10,Serbia,2011,Slovenia
@@ -11345,7 +11345,7 @@
 88,2,Norway,2011,Estonia
 89,2,Denmark,2011,Estonia
 90,2,Belgium,2011,Estonia
-92,12,Bosnia & Herzegovina,2011,Fyr Macedonia
+92,12,Bosnia  Herzegovina,2011,Fyr Macedonia
 93,10,Slovenia,2011,Fyr Macedonia
 94,8,Serbia,2011,Fyr Macedonia
 95,7,Ukraine,2011,Fyr Macedonia
@@ -11382,7 +11382,7 @@
 127,12,Italy,2011,Albania
 128,10,Greece,2011,Albania
 129,8,Azerbaijan,2011,Albania
-130,7,Bosnia & Herzegovina,2011,Albania
+130,7,Bosnia  Herzegovina,2011,Albania
 131,6,United Kingdom,2011,Albania
 132,5,Spain,2011,Albania
 133,4,Russia,2011,Albania
@@ -11403,7 +11403,7 @@
 148,7,Georgia,2011,Italy
 149,6,Armenia,2011,Italy
 150,6,Belgium,2011,Italy
-151,6,Bosnia & Herzegovina,2011,Italy
+151,6,Bosnia  Herzegovina,2011,Italy
 152,6,Estonia,2011,Italy
 153,6,Austria,2011,Italy
 154,6,Romania,2011,Italy
@@ -11496,7 +11496,7 @@
 246,12,Slovenia,2011,Croatia
 247,10,Azerbaijan,2011,Croatia
 248,8,Serbia,2011,Croatia
-249,7,Bosnia & Herzegovina,2011,Croatia
+249,7,Bosnia  Herzegovina,2011,Croatia
 250,6,France,2011,Croatia
 251,5,Ukraine,2011,Croatia
 252,4,Sweden,2011,Croatia
@@ -11629,7 +11629,7 @@
 383,4,Iceland,2011,Ireland
 384,4,Austria,2011,Ireland
 385,3,Bulgaria,2011,Ireland
-386,2,Bosnia & Herzegovina,2011,Ireland
+386,2,Bosnia  Herzegovina,2011,Ireland
 387,1,Poland,2011,Ireland
 389,12,Hungary,2011,Iceland
 390,10,Switzerland,2011,Iceland
@@ -11641,7 +11641,7 @@
 396,4,United Kingdom,2011,Iceland
 397,2,Spain,2011,Iceland
 398,1,Sweden,2011,Iceland
-399,1,Bosnia & Herzegovina,2011,Iceland
+399,1,Bosnia  Herzegovina,2011,Iceland
 401,12,Ireland,2011,Denmark
 402,12,The Netherlands,2011,Denmark
 403,12,Iceland,2011,Denmark
@@ -11662,7 +11662,7 @@
 418,3,Poland,2011,Denmark
 419,1,Belarus,2011,Denmark
 421,12,Azerbaijan,2011,Turkey
-422,10,Bosnia & Herzegovina,2011,Turkey
+422,10,Bosnia  Herzegovina,2011,Turkey
 423,8,Georgia,2011,Turkey
 424,7,Ukraine,2011,Turkey
 425,6,United Kingdom,2011,Turkey
@@ -11687,7 +11687,7 @@
 444,7,Denmark,2011,Norway
 445,6,Serbia,2011,Norway
 446,5,Germany,2011,Norway
-447,4,Bosnia & Herzegovina,2011,Norway
+447,4,Bosnia  Herzegovina,2011,Norway
 448,3,Lithuania,2011,Norway
 449,2,Estonia,2011,Norway
 450,1,United Kingdom,2011,Norway
@@ -11715,7 +11715,7 @@
 473,8,Austria,2011,Azerbaijan
 474,8,Cyprus,2011,Azerbaijan
 475,8,Portugal,2011,Azerbaijan
-476,8,Bosnia & Herzegovina,2011,Azerbaijan
+476,8,Bosnia  Herzegovina,2011,Azerbaijan
 477,8,Lithuania,2011,Azerbaijan
 478,8,Poland,2011,Azerbaijan
 479,8,Albania,2011,Azerbaijan
@@ -11750,7 +11750,7 @@
 509,5,Austria,2011,Bulgaria
 510,4,Russia,2011,Bulgaria
 511,3,Ireland,2011,Bulgaria
-512,2,Bosnia & Herzegovina,2011,Bulgaria
+512,2,Bosnia  Herzegovina,2011,Bulgaria
 513,1,Georgia,2011,Bulgaria
 514,10,Austria,2011,Germany
 515,8,Belarus,2011,Germany
@@ -11767,14 +11767,14 @@
 526,4,Greece,2011,Germany
 527,4,Poland,2011,Germany
 528,3,Turkey,2011,Germany
-529,3,Bosnia & Herzegovina,2011,Germany
+529,3,Bosnia  Herzegovina,2011,Germany
 530,3,Spain,2011,Germany
 531,3,France,2011,Germany
 532,2,Lithuania,2011,Germany
 533,1,Croatia,2011,Germany
 535,12,Germany,2011,Austria
 536,7,Switzerland,2011,Austria
-537,7,Bosnia & Herzegovina,2011,Austria
+537,7,Bosnia  Herzegovina,2011,Austria
 538,5,Slovenia,2011,Austria
 539,5,Bulgaria,2011,Austria
 540,4,Sweden,2011,Austria
@@ -11810,7 +11810,7 @@
 572,3,Denmark,2011,Poland
 573,2,Ukraine,2011,Poland
 574,1,Ireland,2011,Poland
-575,10,Bosnia & Herzegovina,2011,Serbia
+575,10,Bosnia  Herzegovina,2011,Serbia
 576,10,Slovenia,2011,Serbia
 577,8,North Macedonia,2011,Serbia
 578,8,Croatia,2011,Serbia
@@ -11828,7 +11828,7 @@
 590,1,Armenia,2011,Serbia
 592,12,Denmark,2011,The Netherlands
 593,10,Sweden,2011,The Netherlands
-594,8,Bosnia & Herzegovina,2011,The Netherlands
+594,8,Bosnia  Herzegovina,2011,The Netherlands
 595,7,Germany,2011,The Netherlands
 596,6,Azerbaijan,2011,The Netherlands
 597,5,Ireland,2011,The Netherlands
@@ -11851,7 +11851,7 @@
 614,6,Finland,2011,Sweden
 615,6,North Macedonia,2011,Sweden
 616,6,Malta,2011,Sweden
-617,5,Bosnia & Herzegovina,2011,Sweden
+617,5,Bosnia  Herzegovina,2011,Sweden
 618,5,Spain,2011,Sweden
 619,4,Belgium,2011,Sweden
 620,4,Ireland,2011,Sweden
@@ -11881,7 +11881,7 @@
 11,12,Sweden,2012,Austria
 12,10,Serbia,2012,Austria
 13,8,Albania,2012,Austria
-14,7,Bosnia & Herzegovina,2012,Austria
+14,7,Bosnia  Herzegovina,2012,Austria
 15,6,Spain,2012,Austria
 16,5,Russia,2012,Austria
 17,4,Germany,2012,Austria
@@ -11897,7 +11897,7 @@
 27,4,Germany,2012,Switzerland
 28,3,Turkey,2012,Switzerland
 29,2,Moldova,2012,Switzerland
-30,1,Bosnia & Herzegovina,2012,Switzerland
+30,1,Bosnia  Herzegovina,2012,Switzerland
 31,12,Russia,2012,Sweden
 32,12,Israel,2012,Sweden
 33,12,Norway,2012,Sweden
@@ -11921,7 +11921,7 @@
 51,10,Serbia,2012,Sweden
 52,10,Slovenia,2012,Sweden
 53,10,Cyprus,2012,Sweden
-54,8,Bosnia & Herzegovina,2012,Sweden
+54,8,Bosnia  Herzegovina,2012,Sweden
 55,8,Georgia,2012,Sweden
 56,8,Bulgaria,2012,Sweden
 57,7,Croatia,2012,Sweden
@@ -11995,7 +11995,7 @@
 130,6,Sweden,2012,Turkey
 131,5,France,2012,Turkey
 132,5,San Marino,2012,Turkey
-133,4,Bosnia & Herzegovina,2012,Turkey
+133,4,Bosnia  Herzegovina,2012,Turkey
 134,3,Switzerland,2012,Turkey
 135,3,Romania,2012,Turkey
 136,3,Hungary,2012,Turkey
@@ -12026,10 +12026,10 @@
 162,2,Israel,2012,Greece
 163,2,Belgium,2012,Greece
 164,1,Germany,2012,Greece
-165,1,Bosnia & Herzegovina,2012,Greece
+165,1,Bosnia  Herzegovina,2012,Greece
 166,1,Bulgaria,2012,Greece
 167,1,Georgia,2012,Greece
-169,12,Bosnia & Herzegovina,2012,Fyr Macedonia
+169,12,Bosnia  Herzegovina,2012,Fyr Macedonia
 170,12,Serbia,2012,Fyr Macedonia
 171,8,Albania,2012,Fyr Macedonia
 172,8,Croatia,2012,Fyr Macedonia
@@ -12102,7 +12102,7 @@
 242,3,Albania,2012,Russia
 243,3,Slovakia,2012,Russia
 244,3,Malta,2012,Russia
-245,3,Bosnia & Herzegovina,2012,Russia
+245,3,Bosnia  Herzegovina,2012,Russia
 246,3,United Kingdom,2012,Russia
 248,12,Sweden,2012,Slovakia
 249,10,Estonia,2012,Slovakia
@@ -12112,7 +12112,7 @@
 253,5,Italy,2012,Slovakia
 254,4,Iceland,2012,Slovakia
 255,3,Russia,2012,Slovakia
-256,2,Bosnia & Herzegovina,2012,Slovakia
+256,2,Bosnia  Herzegovina,2012,Slovakia
 257,1,North Macedonia,2012,Slovakia
 258,10,Belarus,2012,Ukraine
 259,8,Moldova,2012,Ukraine
@@ -12140,7 +12140,7 @@
 282,8,Austria,2012,Albania
 283,8,Hungary,2012,Albania
 284,6,Finland,2012,Albania
-285,6,Bosnia & Herzegovina,2012,Albania
+285,6,Bosnia  Herzegovina,2012,Albania
 286,6,Germany,2012,Albania
 287,5,Denmark,2012,Albania
 288,5,Turkey,2012,Albania
@@ -12207,7 +12207,7 @@
 351,12,Croatia,2012,Serbia
 352,10,The Netherlands,2012,Serbia
 353,10,Sweden,2012,Serbia
-354,10,Bosnia & Herzegovina,2012,Serbia
+354,10,Bosnia  Herzegovina,2012,Serbia
 355,10,Germany,2012,Serbia
 356,10,Austria,2012,Serbia
 357,10,Switzerland,2012,Serbia
@@ -12235,7 +12235,7 @@
 380,10,Albania,2012,Montenegro
 381,8,North Macedonia,2012,Montenegro
 382,7,Sweden,2012,Montenegro
-383,6,Bosnia & Herzegovina,2012,Montenegro
+383,6,Bosnia  Herzegovina,2012,Montenegro
 384,5,Azerbaijan,2012,Montenegro
 385,4,Russia,2012,Montenegro
 386,3,Moldova,2012,Montenegro
@@ -12284,7 +12284,7 @@
 430,3,Latvia,2012,France
 431,2,Austria,2012,France
 432,2,Sweden,2012,France
-433,2,Bosnia & Herzegovina,2012,France
+433,2,Bosnia  Herzegovina,2012,France
 435,12,Portugal,2012,Spain
 436,10,Israel,2012,Spain
 437,8,United Kingdom,2012,Spain
@@ -12295,7 +12295,7 @@
 442,6,Belgium,2012,Spain
 443,6,Cyprus,2012,Spain
 444,6,Romania,2012,Spain
-445,5,Bosnia & Herzegovina,2012,Spain
+445,5,Bosnia  Herzegovina,2012,Spain
 446,4,Estonia,2012,Spain
 447,4,Sweden,2012,Spain
 448,3,Bulgaria,2012,Spain
@@ -12346,7 +12346,7 @@
 497,12,Serbia,2012,Slovenia
 498,10,Sweden,2012,Slovenia
 499,8,Russia,2012,Slovenia
-500,7,Bosnia & Herzegovina,2012,Slovenia
+500,7,Bosnia  Herzegovina,2012,Slovenia
 501,6,North Macedonia,2012,Slovenia
 502,5,Italy,2012,Slovenia
 503,4,Iceland,2012,Slovenia
@@ -12354,7 +12354,7 @@
 505,2,Germany,2012,Slovenia
 506,1,Moldova,2012,Slovenia
 507,12,Serbia,2012,Croatia
-508,10,Bosnia & Herzegovina,2012,Croatia
+508,10,Bosnia  Herzegovina,2012,Croatia
 509,8,North Macedonia,2012,Croatia
 510,7,Sweden,2012,Croatia
 511,6,Russia,2012,Croatia
@@ -12438,7 +12438,7 @@
 592,8,Cyprus,2012,Azerbaijan
 593,8,Israel,2012,Azerbaijan
 594,7,Belarus,2012,Azerbaijan
-595,7,Bosnia & Herzegovina,2012,Azerbaijan
+595,7,Bosnia  Herzegovina,2012,Azerbaijan
 596,6,Slovakia,2012,Azerbaijan
 597,5,Greece,2012,Azerbaijan
 598,5,Montenegro,2012,Azerbaijan
@@ -13996,7 +13996,7 @@
 15,6,Cyprus,2016,France
 16,5,Italy,2016,France
 17,5,Iceland,2016,France
-18,4,Bosnia & Herzegovina,2016,France
+18,4,Bosnia  Herzegovina,2016,France
 19,4,The Netherlands,2016,France
 20,4,Greece,2016,France
 21,4,Azerbaijan,2016,France
@@ -14068,7 +14068,7 @@
 87,6,Estonia,2016,Austria
 88,6,Hungary,2016,Austria
 89,5,Sweden,2016,Austria
-90,5,Bosnia & Herzegovina,2016,Austria
+90,5,Bosnia  Herzegovina,2016,Austria
 91,4,Latvia,2016,Austria
 92,4,Moldova,2016,Austria
 93,4,Czech Republic,2016,Austria
@@ -14210,7 +14210,7 @@
 229,3,Australia,2016,Bosnia Herzegovina
 230,2,Bulgaria,2016,Bosnia Herzegovina
 231,1,Hungary,2016,Bosnia Herzegovina
-232,10,Bosnia & Herzegovina,2016,Croatia
+232,10,Bosnia  Herzegovina,2016,Croatia
 233,8,Slovenia,2016,Croatia
 234,6,Montenegro,2016,Croatia
 235,5,North Macedonia,2016,Croatia
@@ -14250,7 +14250,7 @@
 269,2,Lithuania,2016,Hungary
 270,2,Greece,2016,Hungary
 271,1,San Marino,2016,Hungary
-272,1,Bosnia & Herzegovina,2016,Hungary
+272,1,Bosnia  Herzegovina,2016,Hungary
 273,1,Albania,2016,Hungary
 274,56,points received from televoters,2016,Hungary
 275,12,Lithuania,2016,Latvia
@@ -14358,7 +14358,7 @@
 377,7,Albania,2016,Russia
 378,7,Iceland,2016,Russia
 379,7,United Kingdom,2016,Russia
-380,6,Bosnia & Herzegovina,2016,Russia
+380,6,Bosnia  Herzegovina,2016,Russia
 381,6,Norway,2016,Russia
 382,6,Belgium,2016,Russia
 383,6,Switzerland,2016,Russia
@@ -14369,7 +14369,7 @@
 388,361,points received from televoters,2016,Russia
 389,10,Ukraine,2016,Azerbaijan
 390,8,Moldova,2016,Azerbaijan
-391,8,Bosnia & Herzegovina,2016,Azerbaijan
+391,8,Bosnia  Herzegovina,2016,Azerbaijan
 392,8,Belarus,2016,Azerbaijan
 393,7,Montenegro,2016,Azerbaijan
 394,7,Georgia,2016,Azerbaijan
@@ -14403,7 +14403,7 @@
 422,8,Israel,2016,Ukraine
 423,8,Estonia,2016,Ukraine
 424,8,Montenegro,2016,Ukraine
-425,7,Bosnia & Herzegovina,2016,Ukraine
+425,7,Bosnia  Herzegovina,2016,Ukraine
 426,7,Cyprus,2016,Ukraine
 427,7,Serbia,2016,Ukraine
 428,7,Spain,2016,Ukraine
@@ -14470,7 +14470,7 @@
 489,3,San Marino,2016,Bulgaria
 490,3,Georgia,2016,Bulgaria
 491,2,Ukraine,2016,Bulgaria
-492,2,Bosnia & Herzegovina,2016,Bulgaria
+492,2,Bosnia  Herzegovina,2016,Bulgaria
 493,2,Moldova,2016,Bulgaria
 494,2,Slovenia,2016,Bulgaria
 495,1,The Netherlands,2016,Bulgaria
@@ -14488,7 +14488,7 @@
 507,2,Bulgaria,2016,Moldova
 508,1,Latvia,2016,Moldova
 509,10,Croatia,2016,Czech Republic
-510,6,Bosnia & Herzegovina,2016,Czech Republic
+510,6,Bosnia  Herzegovina,2016,Czech Republic
 511,5,Iceland,2016,Czech Republic
 512,4,Poland,2016,Czech Republic
 513,4,Austria,2016,Czech Republic
@@ -14533,7 +14533,7 @@
 552,12,North Macedonia,2016,Serbia
 553,12,Switzerland,2016,Serbia
 554,12,Slovenia,2016,Serbia
-555,12,Bosnia & Herzegovina,2016,Serbia
+555,12,Bosnia  Herzegovina,2016,Serbia
 556,4,Austria,2016,Serbia
 557,4,Italy,2016,Serbia
 558,80,points received from televoters,2016,Serbia
@@ -14584,7 +14584,7 @@
 603,4,Estonia,2016,Australia
 604,4,Belgium,2016,Australia
 605,4,Russia,2016,Australia
-606,3,Bosnia & Herzegovina,2016,Australia
+606,3,Bosnia  Herzegovina,2016,Australia
 607,3,Slovenia,2016,Australia
 608,3,Austria,2016,Australia
 609,3,North Macedonia,2016,Australia
